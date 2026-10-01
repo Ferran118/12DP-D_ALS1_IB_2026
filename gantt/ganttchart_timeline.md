@@ -2,7 +2,7 @@
 
 ```mermaid
 gantt
-    title DISEASE project - Timeline v1
+    title ALS1 Disease Project - Timeline First Version 
     dateFormat YYYY-MM-DD
     axisFormat %d.%m
 
