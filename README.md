@@ -2,4 +2,4 @@
 
 Project IB
 
-Testing new molecule
+Protein Data Bank with Serum Albumin definition: [pdb101.rcsb.org/motm/37](https://pdb101.rcsb.org/motm/37)
