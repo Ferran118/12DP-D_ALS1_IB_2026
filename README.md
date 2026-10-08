@@ -1,4 +1,4 @@
-# NFL_ALS1_IB_2026
+# Project Disease 12DP-D
 
 **Course:** Introduction to Bioinformatics · UPC · 2026–2027  
 **Group:** NFL  
