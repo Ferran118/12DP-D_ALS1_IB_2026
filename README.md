@@ -1,7 +1,7 @@
-# Project Disease 12DP-D
+# 12DP-D_ALS1_IB_2026
 
 **Course:** Introduction to Bioinformatics · UPC · 2026–2027  
-**Group:** NFL  
+**Group:** 12DP-D
 **Authors:** Ferran Sanchez, Luz Hurtado, Noa Galvan, Leyre Zazpe
 
 ## Description
