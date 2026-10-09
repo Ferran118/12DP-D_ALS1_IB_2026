@@ -59,7 +59,7 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | **4** | **Oral presentation** | | 27.10 | 04.11 | | | | |
 | **4.1** | **Presentation preparation** | | 27.10 | 04.11 | | | | |
 | 4.1.1 | Slide structure and template | Noa | 27.10 | 28.10 |  |  | Pending | After final delivery; nothing committed after 26/10 22:00 |
-| 4.1.2 | Slides for own section | All | 29.10 | 30.10 |  |  | Pending | Each member prepares the part they present |
+| 4.1.2 | Slides for each section | All | 29.10 | 30.10 |  |  | Pending | All memebers prepare the slides equally |
 | 4.1.3 | Cross-explanation session | All | 02.11 | 02.11 |  |  | Pending |  |
 | 4.1.4 | Rehearsal with questions | All | 03.11 | 04.11 |  |  | Pending |  |
 | **M** | **Milestones** | |  |  | | | | |
