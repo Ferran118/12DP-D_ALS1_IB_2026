@@ -1,4 +1,4 @@
-# Project Status — 12DP-D · ALS1 / SOD1 Disease Project
+# Project Status — 12DP-D · ALS1 Disease Project
 
 Live task tracking. Same tasks and IDs as the Gantt chart in `gantt/`.
 
