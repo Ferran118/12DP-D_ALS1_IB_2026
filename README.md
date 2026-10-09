@@ -10,10 +10,10 @@ This repository contains our Disease Project on **Amyotrophic Lateral Sclerosis 
 ## Team and roles
 | Member | Role | Main responsibilities |
 |---|---|---|
-| Ferran | To be defined | To be defined |
-| Luz | To be defined | To be defined |
-| Noa | To be defined | To be defined |
-| Leyre | To be defined | To be defined |
+| Ferran | Project Manager & Structural Biology Analyst | Owns the repository; keeps the Project Status and live Gantt up to date and prepares the retrospective; maps the variants onto the 3D structure and analyses healthy vs disease differences; sets up the report skeleton and checks word count, figure limit, grammar and style. |
+| Luz | Product Owner & Disease Specialist | Accepts deliverables: submits the Gantt v1, checks references and the final delivery against the rubric and Formal Requirements; explains the disease cause and its impact on the patient; writes Background, the disease correlation and the Conclusions. |
+| Noa | Evolutionary Analysis Specialist & Report Integrator | Selects and justifies the comparison species, retrieves orthologs and runs the MSA, conservation and selective-pressure analyses; writes the evolutionary results and their interpretation; integrates all sections and writes the Abstract; structures the oral presentation. |
+| Leyre | Risk Manager & Sequence/Variant Analyst | Owns the risk register and monitors risks weekly; updates the repository to the Formal Requirements; selects the variants and builds the numbering mapping table; runs the wild-type vs mutant alignments; writes Methods and the mutant sequence results. |
 
 ## Repository structure
 - `report/report.md` — main project report (BMC Bioinformatics format)
