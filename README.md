@@ -1,4 +1,4 @@
-# 12DP-D_ALS1_IB_2026
+# 12DP-D_ALS1_IB_2026.    (The SOD1 Factor)
 
 **Course:** Introduction to Bioinformatics · UPC · 2026–2027  
 **Group:** 12DP-D  
