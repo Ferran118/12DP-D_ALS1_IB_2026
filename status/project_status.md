@@ -1,6 +1,6 @@
 # Project Status — 12DP-D · ALS1 / SOD1 Disease Project
 
-Live task tracking (Formal Requirements, section III). Same tasks and IDs as the Gantt chart in `gantt/`.
+Live task tracking. Same tasks and IDs as the Gantt chart in `gantt/`.
 
 **Updated up to: 09.10.2026**
 
