@@ -1,8 +1,8 @@
 # 12DP-D_ALS1_IB_2026
 
 **Course:** Introduction to Bioinformatics · UPC · 2026–2027  
-**Group:** 12DP-D
-**Authors:** Ferran Sanchez, Luz Hurtado, Noa Galvan, Leyre Zazpe
+**Group:** 12DP-D  
+**Authors:** Ferran Sánchez, Luz Hurtado, Noa Galván, Leyre Zazpe
 
 ## Description
 This repository contains our Disease Project on **Amyotrophic Lateral Sclerosis 1 (ALS1)**, caused by mutations in the **SOD1** gene.
