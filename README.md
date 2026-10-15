@@ -5,7 +5,7 @@
 **Authors:** Ferran Sánchez, Luz Hurtado, Noa Galván, Leyre Zazpe
 
 ## Description
-This repository contains our Disease Project on **Amyotrophic Lateral Sclerosis 1 (ALS1)**, caused by mutations in the **SOD1** gene.
+This repository contains our Disease Project on **Amyotrophic Lateral Sclerosis 1 (ALS1)**, caused by mutations in the **SOD1** gene. In this project our main goal is to understand and explain tha causes of this disease covering concepts like **gen, protein, 3D structure and function**.
 
 ## Team and roles
 | Member | Role | Main responsibilities |
