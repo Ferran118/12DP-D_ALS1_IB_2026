@@ -29,7 +29,7 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | 2.1.1 | Disease cause at gene, protein, structure and function level | Luz | 13.10 | 14.10 |  |  | Pending |  |
 | 2.1.2 | Variant selection and numbering mapping table | Leyre | 13.10 | 14.10 |  |  | Pending | Contingency for risks 'too much information' and 'source mismatch' |
 | 2.1.3 | Wild-type vs mutant sequence alignment | Leyre | 15.10 | 16.10 |  |  | Pending |  |
-| 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15.10 | 15.10 |  |  | Completed |  |
+| 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15.10 | 15.10 |  |  | Completed | Add the variants in the SOD1 WT protein on 3D structure |
 | **2.2** | **Evolutionary conservation** | | 13.10 | 19.10 | | | | |
 | 2.2.1 | Species selection (≥ 2) and ortholog retrieval | Noa | 13.10 | 14.10 |  |  | Pending |  |
 | 2.2.2 | Multiple sequence alignment and conservation of mutated residues | Noa | 15.10 | 16.10 |  |  | Pending |  |
