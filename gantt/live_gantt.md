@@ -8,7 +8,7 @@
 | 1.1.2 | Repository update to Formal Requirements | Leyre | 01/10 | 09/10 | Completed |
 | 1.2.1 | Gantt chart (Excel) | All | 01/10 | 08/10 | Completed |
 | 1.2.2 | Risk assessment | Leyre | 05/10 | 09/10 | Completed |
-| 1.2.3 | Gantt v1 export to PDF, Atenea submission | Luz | 09/10 | 09/10 | In progress |
+| 1.2.3 | Gantt v1 export to PDF, Atenea submission | Luz | 09/10 | 09/10 | Completed |
 | 1.3.1 | Bibliography selection | All | 06/10 | 22/10 | In progress |
 | 1.3.2 | Extraction of information and storage of sources | All | 13/10 | 21/10 | Pending |
 | 1.3.3 | In-text citations and reference list | All | 15/10 | 22/10 | Pending |
