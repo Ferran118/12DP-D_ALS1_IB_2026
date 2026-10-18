@@ -16,7 +16,7 @@
 | 1.4.2 | Risk monitoring | Leyre | 09/10 | 26/10 | Pending |
 | 1.4.3 | Retrospective preparation | Ferran | 21/10 | 21/10 | Pending |
 | **2** | **Bioinformatic analysis** | | | | |
-| 2.1.1 | Disease cause at gene, protein, structure, function | Luz | 13/10 | 14/10 | Pending |
+| 2.1.1 | Disease cause at gene, protein, structure, function | Luz | 13/10 | 14/10 | In progress |
 | 2.1.2 | Variant selection and numbering mapping table | Leyre | 13/10 | 14/10 | Pending |
 | 2.1.3 | Wild-type vs mutant sequence alignment | Leyre | 15/10 | 16/10 | Pending |
 | 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15/10 | 16/10 | Pending |
