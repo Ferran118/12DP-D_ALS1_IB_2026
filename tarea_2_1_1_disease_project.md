@@ -1,5 +1,12 @@
 # TAREA 2.1.1 DISEASE PROJECT
 
+# Disease Specialist | analysis of ALS1 across four specific biological levels
+
+**Description:** Amyotrophic lateral sclerosis is a neurodegenerative disorder characterized by the death of motor neurons in the brain, brainstem, and spinal cord, resulting in fatal paralysis. ALS usually begins with asymmetric involvement of the muscles in middle adult life. Approximately 10% of ALS cases are familial.
+
+Today we're going to break down the cause of the ALS1 disease on four biological levels: gene, protein, structure, and function.
+
+
 ## Genetic Heterogeneity of Amyotrophic Lateral Sclerosis (ALS)
 Amyotrophic Lateral Sclerosis (ALS) is a genetically heterogeneous neurodegenerative disorder, meaning that the disease phenotype is not linked to a single genetic locus, but can be triggered by pathogenic mutations across multiple distinct genes (e.g., SOD1, C9orf72, FUS, and TARDBP). Consequently, the precise genetic cause can vary significantly between patients.
 
@@ -15,9 +22,9 @@ Pathogenic variants in SOD1 account for approximately 12–20% of familial ALS (
 ### 1. Genetic Level: The SOD1 Gene
 * **Genetic Heterogeneity of Amyotrophic Lateral Sclerosis:** ALS is a genetically heterogeneous disorder, with several causative genes and mapped loci. What genetic heterogeneity means is that a disease isn't caused by just one single genetic mistake, but can be triggered by many different ones, the patient's DNA mutation can vary from person to person. We are going to be focusing on the SOD1 gene, which is one of the involved mutated genes that cause the disease.
 
-* **2. Mutation Profile:** Scientists have found 150 distinct mutations in the SOD1 gene have been linked to ALS. The vast majority are missense mutations, single nucleotide substitution that leads to an aminoacid replacement in the resulting polypeptide chain. (A point mutation is a genetic mutation that occurs when a single nucleotide base pair in DNA is altered, inserted, or deleted.) A classic example is the well-studied A4V mutation (substitution of alanine for valine at position 4): which is associated with a rapidly progressive disease phenotype. 
+* **Mutation Profile:** Scientists have found 150 distinct mutations in the SOD1 gene have been linked to ALS. The vast majority are missense mutations, single nucleotide substitution that leads to an aminoacid replacement in the resulting polypeptide chain. (A point mutation is a genetic mutation that occurs when a single nucleotide base pair in DNA is altered, inserted, or deleted.) A classic example is the well-studied A4V mutation (substitution of alanine for valine at position 4): which is associated with a rapidly progressive disease phenotype. 
 
-* **3. Inheritance:**
+* **Inheritance:**
   * **Autosomal Dominant (AD):** The primary mode of inheritance for SOD1-linked ALS. A single inherited copy of the mutated allele from one parent is sufficient to trigger disease pathogenesis (e.g., the A4V variant).
   * **Autosomal Recessive (AR):** Exceptionally, certain SOD1 variants display recessive inheritance, requiring two copies of the mutated allele (one from each parent) for disease expression (e.g., homozygous D90A mutation).
 
