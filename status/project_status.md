@@ -29,13 +29,13 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | 2.1.1 | Disease cause at gene, protein, structure and function level | Luz | 13.10 | 14.10 |  |  | Pending |  |
 | 2.1.2 | Variant selection and numbering mapping table | Leyre | 13.10 | 14.10 |  |  | Pending | Contingency for risks 'too much information' and 'source mismatch' |
 | 2.1.3 | Wild-type vs mutant sequence alignment | Leyre | 15.10 | 16.10 |  |  | Pending |  |
-| 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15.10 | 15.10 |  |  | Completed | Add the variants in the SOD1 WT protein on 3D structure |
+| 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15.10 | 16.10 | 15.10 | 15.10 | Completed | Add the variants in the SOD1 WT protein on 3D structure |
 | **2.2** | **Evolutionary conservation** | | 13.10 | 19.10 | | | | |
 | 2.2.1 | Species selection (≥ 2) and ortholog retrieval | Noa | 13.10 | 14.10 |  |  | Pending |  |
 | 2.2.2 | Multiple sequence alignment and conservation of mutated residues | Noa | 15.10 | 16.10 |  |  | Pending |  |
 | 2.2.3 | Selective pressure in evolution | Noa | 19.10 | 19.10 |  |  | Pending |  |
 | **2.3** | **Structure–function impact** | | 19.10 | 20.10 | | | | |
-| 2.3.1 | Healthy vs disease differences at gene, protein, structure and function level | Ferran | 19.10 | 19.10 |  |  | Pending |  |
+| 2.3.1 | Healthy vs disease differences at gene, protein, structure and function level | Ferran | 19.10 | 19.10 | 20.10 |  | In process | Comparing healthy vs variant at all levels explaining each differences. |
 | 2.3.2 | Impact on patient function | Luz | 20.10 | 20.10 |  |  | Pending |  |
 | **3** | **Report writing (BMC Bioinformatics format)** | | 13.10 | 23.10 | | | | |
 | **3.1** | **Background and Methods** | | 13.10 | 21.10 | | | | |
