@@ -12,11 +12,11 @@ Working list of sources consulted. Every source used in the report must also be 
 
 
 ## Paper’s references
-Gagliardi D, Ripellino P, Meneri M, et al. Clinical and molecular features of patients with amyotrophic lateral sclerosis and SOD1 mutations: a monocentric study. Front Neurol. 2023; 14: 1169689.
+Gagliardi D, Ripellino P, Meneri M, et al. Clinical and molecular features of patients with amyotrophic lateral sclerosis and SOD1 mutations: a monocentric study. Front Neurol. 2023; 14: 1169689.   https://pubmed.ncbi.nlm.nih.gov/37265463/
 
-Suthar SK, Lee SY. The role of superoxide dismutase 1 in amyotrophic lateral sclerosis: identification of signaling pathways, regulators, molecular interaction networks, and biological functions through bioinformatics. Brain Sci. 2023; 13(1): 151.
+Suthar SK, Lee SY. The role of superoxide dismutase 1 in amyotrophic lateral sclerosis: identification of signaling pathways, regulators, molecular interaction networks, and biological functions through bioinformatics. Brain Sci. 2023; 13(1): 151.   https://pubmed.ncbi.nlm.nih.gov/36672132/
 
-Redler RL, Dokholyan NV. The complex molecular biology of amyotrophic lateral sclerosis (ALS). Prog Mol Biol Transl Sci. 2012; 107: 215-262.
+Redler RL, Dokholyan NV. The complex molecular biology of amyotrophic lateral sclerosis (ALS). Prog Mol Biol Transl Sci. 2012; 107: 215-262.  https://pmc.ncbi.nlm.nih.gov/articles/PMC3605887/
 
 ## Database references
 Online Mendelian Inheritance in Man (OMIM). Amyotrophic lateral sclerosis 1; ALS1 (Entry 147450). OMIM. 2023. Available from: https://omim.org/entry/147450
