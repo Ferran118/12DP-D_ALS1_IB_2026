@@ -33,7 +33,7 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | **2.2** | **Evolutionary conservation** | | 13.10 | 19.10 | | | | |
 | 2.2.1 | Species selection (≥ 2) and ortholog retrieval | Noa | 13.10 | 14.10 | 08.10 | 13.10 | **Completed** |  |
 | 2.2.2 | Multiple sequence alignment and conservation of mutated residues | Noa | 15.10 | 16.10 | 16.10 | 19.10 | **Completed** |  |
-| 2.2.3 | Selective pressure in evolution | Noa | 19.10 | 19.10 | 20.10 |  | In progress |  |
+| 2.2.3 | Selective pressure in evolution | Noa | 19.10 | 19.10 | 20.10 | 22.10 | **Completed** |  |
 | **2.3** | **Structure–function impact** | | 19.10 | 20.10 | | | | |
 | 2.3.1 | Healthy vs disease differences at gene, protein, structure and function level | Ferran | 19.10 | 19.10 | 20.10 |  | In process | Comparing healthy vs variant at all levels explaining each differences. |
 | 2.3.2 | Impact on patient function | Luz | 20.10 | 20.10 | 21.10 |  | In progress |  |
@@ -44,10 +44,10 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | 3.1.3 | Methods | Leyre | 21.10 | 21.10 |  |  | Pending |  |
 | **3.2** | **Results** | | 19.10 | 20.10 | | | | |
 | 3.2.1 | Mutant sequence findings | Leyre | 19.10 | 20.10 | 21.10 | 21.10 | **Completed** |  |
-| 3.2.2 | Evolutionary findings | Noa | 20.10 | 20.10 |  |  | Pending |  |
-| 3.2.3 | Structure and functional impact findings | Ferran | 20.10 | 20.10 |  |  | Pending |  |
+| 3.2.2 | Evolutionary findings | Noa | 20.10 | 20.10 | 21.10 | 22.10 | **Completed** |  |
+| 3.2.3 | Structure and functional impact findings | Ferran | 20.10 | 20.10 | 21.10 | 22.10 | **Completed** |  |
 | **3.3** | **Discussion and Conclusions** | | 21.10 | 22.10 | | | | |
-| 3.3.1 | Results interpretation | Noa | 21.10 | 21.10 |  |  | Pending |  |
+| 3.3.1 | Results interpretation | Noa | 21.10 | 21.10 | 22.10 |  | In progress |  |
 | 3.3.2 | Correlation with the disease | Luz | 21.10 | 21.10 |  |  | Pending |  |
 | 3.3.3 | Conclusions | Luz | 22.10 | 22.10 |  |  | Pending | Synthesis only: no new analyses after the 21/10 content freeze |
 | **3.4** | **Integration and final review** | | 21.10 | 23.10 | | | | |
