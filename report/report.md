@@ -33,9 +33,9 @@ Crucially, this amino acid substitution resides within a critical functional reg
   
 As a result of this increased local hydrophobicity, volume, and structural strain, the SOD1 mutant exhibits a high propensity to unfold. Once unfolded or destabilized, the exposed hydrophobic surfaces drive the formation of cytotoxic protein aggregates, a hallmark of ALS1 pathogenesis.
 
-**Strcture:
+**Structure:**
 
-The human SOD1 gene is located at genomic locus **21q22.11** on the long arm of chromosome 21 and is composed of 5 exons. In this study model, the primary molecular cause of disease is a single-nucleotide missense mutation, **c.14C>T**, located in exon 1[1],[2]. At the coding sequence level, this nucleotide substitution alters the fifth codon from "GCC" to "GTC", resulting in the substitution of an Alanine  with a Valine at position 5 of the 154-amino-acid polypeptide chain, **p.Ala5Val**.[1],[2] 
+The human SOD1 gene is located at genomic locus **21q22.11** on the long arm of chromosome 21 and is composed of 5 exons. In this study model, the primary molecular cause of disease is a single-nucleotide missense mutation, **c.14C>T**, located in exon 1[[1]],[[2]]. At the coding sequence level, this nucleotide substitution alters the fifth codon from "GCC" to "GTC", resulting in the substitution of an Alanine  with a Valine at position 5 of the 154-amino-acid polypeptide chain, **p.Ala5Val**.[1],[2] 
 At physicochemical level this substitution changes its properties:
 
 | WT (gene) | Mutated (gene) |
