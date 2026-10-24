@@ -43,7 +43,7 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | 3.1.2 | Background | Luz | 15.10 | 16.10 |  |  | Pending |  |
 | 3.1.3 | Methods | Leyre | 21.10 | 21.10 |  |  | Pending |  |
 | **3.2** | **Results** | | 19.10 | 20.10 | | | | |
-| 3.2.1 | Mutant sequence findings | Leyre | 19.10 | 20.10 | 21.10 | 21.10 | **Completed** |  |
+| 3.2.1 | Mutant sequence findings | Noa | 19.10 | 20.10 | 21.10 | 21.10 | **Completed** |  |
 | 3.2.2 | Evolutionary findings | Noa | 20.10 | 20.10 | 21.10 | 22.10 | **Completed** |  |
 | 3.2.3 | Structure and functional impact findings | Ferran | 20.10 | 20.10 | 21.10 | 22.10 | **Completed** |  |
 | **3.3** | **Discussion and Conclusions** | | 21.10 | 22.10 | | | | |
