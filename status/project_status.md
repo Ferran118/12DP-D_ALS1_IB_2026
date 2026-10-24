@@ -18,7 +18,7 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | 1.2.3 | Gantt v1 export to PDF, Atenea submission and freeze in repo | Luz | 09.10 | 09.10 | 09.10 | 09.10 | **Completed** | Atenea deadline 22:00; upload at least 2 h earlier |
 | **1.3** | **Literature review** | | 06.10 | 22.10 | | | | |
 | 1.3.1 | Bibliography selection | All | 06.10 | 09.10 | 06.10 |  | In progress | Every member searches sources |
-| 1.3.2 | Extraction of information and storage of sources | All | 13.10 | 21.10 | 09.10 | 24.10 | Pending |  |
+| 1.3.2 | Extraction of information and storage of sources | All | 13.10 | 21.10 | 09.10 | 24.10 | In progress |  |
 | 1.3.3 | In-text citations and reference list (Oxford SCIMED) | All | 15.10 | 22.10 |  |  | Pending | Done while writing each section |
 | **1.4** | **Project monitoring** | | 09.10 | 26.10 | | | | |
 | 1.4.1 | Project Status and live Gantt updates (Mon & Thu) | Ferran | 09.10 | 26.10 | 09.10 |  | In progress | Final Gantt must reflect real progress on 26/10 |
@@ -27,7 +27,7 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | **2** | **Bioinformatic analysis** | | 13.10 | 20.10 | | | | |
 | **2.1** | **Sequence, mutation and structure analysis** | | 13.10 | 16.10 | | | | |
 | 2.1.1 | Disease cause at gene, protein, structure and function level | Luz | 13.10 | 14.10 | 16.10 | 20.10 | **Completed** |  |
-| 2.1.2 | Variant selection and numbering mapping table | Leyre | 13.10 | 14.10 |  |  | Pending | Contingency for risks 'too much information' and 'source mismatch' |
+| 2.1.2 | Variant selection and numbering mapping table | ?? | 13.10 | 14.10 | ? | ? | **Completed** | Contingency for risks 'too much information' and 'source mismatch' |
 | 2.1.3 | Wild-type vs mutant sequence alignment | Ferran & Noa | 15.10 | 16.10 | 08.10 | 09.10 | **Completed** |  |
 | 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15.10 | 16.10 | 15.10 | 15.10 | **Completed** | Add the variants in the SOD1 WT protein on 3D structure |
 | **2.2** | **Evolutionary conservation** | | 13.10 | 19.10 | | | | |
@@ -48,8 +48,8 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | 3.2.3 | Structure and functional impact findings | Ferran | 20.10 | 20.10 | 21.10 | 22.10 | **Completed** |  |
 | **3.3** | **Discussion and Conclusions** | | 21.10 | 22.10 | | | | |
 | 3.3.1 | Results interpretation | Noa | 21.10 | 21.10 | 22.10 |  | In progress |  |
-| 3.3.2 | Correlation with the disease | Luz | 21.10 | 21.10 |  |  | Pending |  |
-| 3.3.3 | Conclusions | Luz | 22.10 | 22.10 |  |  | Pending | Synthesis only: no new analyses after the 21/10 content freeze |
+| 3.3.2 | Correlation with the disease | Luz | 21.10 | 21.10 | 24.10 |  | In progress |  |
+| 3.3.3 | Conclusions | Luz | 22.10 | 22.10 | 24.10 |  | In progress | Synthesis only: no new analyses after the 21/10 content freeze |
 | **3.4** | **Integration and final review** | | 21.10 | 23.10 | | | | |
 | 3.4.1 | Word-count and figure-limit check | Ferran | 21.10 | 21.10 |  |  | Pending | Contingency of the format risk (check on 21/10) |
 | 3.4.2 | Integration of sections, Abstract and Keywords | Noa | 22.10 | 22.10 |  |  | Pending | Synthesis only: no new analyses after the 21/10 content freeze |
