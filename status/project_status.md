@@ -36,7 +36,7 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | 2.2.3 | Selective pressure in evolution | Noa | 19.10 | 19.10 | 20.10 | 22.10 | **Completed** |  |
 | **2.3** | **Structure–function impact** | | 19.10 | 20.10 | | | | |
 | 2.3.1 | Healthy vs disease differences at gene, protein, structure and function level | Ferran | 19.10 | 19.10 | 20.10 |  | In process | Comparing healthy vs variant at all levels explaining each differences. |
-| 2.3.2 | Impact on patient function | Luz | 20.10 | 20.10 | 21.10 |  | In progress |  |
+| 2.3.2 | Impact on patient function | Luz | 20.10 | 20.10 | 21.10 | 23.10 | **Completed** |  |
 | **3** | **Report writing (BMC Bioinformatics format)** | | 13.10 | 23.10 | | | | |
 | **3.1** | **Background and Methods** | | 13.10 | 21.10 | | | | |
 | 3.1.1 | Report skeleton (BMC sections) and figure plan | Ferran | 13.10 | 13.10 | 08.10 |  | In progress | Report structure uploaded by Leyre on 08/10. Section owners and word budget pending. |
