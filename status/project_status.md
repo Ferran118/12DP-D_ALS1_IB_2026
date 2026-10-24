@@ -40,8 +40,8 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | **3** | **Report writing (BMC Bioinformatics format)** | | 13.10 | 23.10 | | | | |
 | **3.1** | **Background and Methods** | | 13.10 | 21.10 | | | | |
 | 3.1.1 | Report skeleton (BMC sections) and figure plan | Ferran | 13.10 | 13.10 | 08.10 |  | In progress | Report structure uploaded by Leyre on 08/10. Section owners and word budget pending. |
-| 3.1.2 | Background | Luz | 15.10 | 16.10 |  |  | Pending |  |
-| 3.1.3 | Methods | Leyre | 21.10 | 21.10 |  |  | Pending |  |
+| 3.1.2 | Background | All | 15.10 | 16.10 |  |  | Pending |  |
+| 3.1.3 | Methods | Noa | 21.10 | 21.10 | 24.10 |  | In progress |  |
 | **3.2** | **Results** | | 19.10 | 20.10 | | | | |
 | 3.2.1 | Mutant sequence findings | Noa | 19.10 | 20.10 | 21.10 | 21.10 | **Completed** |  |
 | 3.2.2 | Evolutionary findings | Noa | 20.10 | 20.10 | 21.10 | 22.10 | **Completed** |  |
