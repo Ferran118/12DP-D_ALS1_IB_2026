@@ -23,6 +23,9 @@ Introduction to Bioinformatics · UPC · 2026–2027
 ### Evolutionary findings
 
 ### Structure and functional impact findings
+**Structural impact:
+The human SOD1 gene is located at genomic locus 21q22.11 on the long arm of chromosome 21 and is composed of 5 exons.[1]
+
 
 ## Discussion
 
