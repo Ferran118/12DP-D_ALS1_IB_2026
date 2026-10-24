@@ -24,7 +24,7 @@
 | 2.2.2 | MSA and conservation of mutated residues | Noa | 15/10 | 16/10 | Pending |
 | 2.2.3 | Selective pressure in evolution | Noa | 19/10 | 19/10 | Pending |
 | 2.3.1 | Healthy vs disease differences (all levels) | Ferran | 19/10 | 19/10 | Pending |
-| 2.3.2 | Impact on patient function | Luz | 20/10 | 20/10 | Pending |
+| 2.3.2 | Impact on patient function | Luz | 20/10 | 20/10 | **Completed** |
 | **3** | **Report writing (BMC Bioinformatics format)** | | | | |
 | 3.1.1 | Report skeleton (BMC sections) and figure plan | Ferran | 13/10 | 13/10 | In progress |
 | 3.1.2 | Background | Luz | 15/10 | 16/10 | Pending |
