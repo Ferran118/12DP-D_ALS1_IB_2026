@@ -46,6 +46,25 @@ As a result of this increased local hydrophobicity, volume, and structural strai
 ### Numbering convention
 
 ## Abbreviations
+- **AD:** Autosomal Dominant
+- **Ala / A:** Alanine
+- **ALS:** Amyotrophic Lateral Sclerosis
+- **AR:** Autosomal Recessive
+- **ATP:** Adenosine Triphosphate
+- **C9orf72:** Chromosome 9 Open Reading Frame 72
+- **CDS:** Coding Sequence
+- **ER:** Endoplasmic Reticulum
+- **fALS:** Familial Amyotrophic Lateral Sclerosis
+- **FUS:** Fused in Sarcoma
+- **MD:** Molecular Dynamics
+- **PDB:** Protein Data Bank
+- **RMSD:** Root-Mean-Square Deviation
+- **RSS:** Reactive Sulfur Species
+- **sALS:** Sporadic Amyotrophic Lateral Sclerosis
+- **SOD1:** Superoxide Dismutase 1
+- **TARDBP:** TAR DNA-Binding Protein
+- **Val / V:** Valine
+- **WT:** Wild-Type
 
 ## Declarations
 
