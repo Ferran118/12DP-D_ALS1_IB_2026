@@ -15,3 +15,11 @@ The c.14C>T (p.Ala5Val) missense mutation replaces a small Alanine residue with 
 Crucially, this amino acid substitution resides within a critical functional region of SOD1: the homodimer interface. The addition of the methyl groups of the Valine interact with a neighboring Valine to generate a hydrophobic block. This alteration severely distorts the geometry of the dimer contact surface, compromising homodimer stability and disrupting proper zinc (Zn2+) coordination.
   
 As a result of this increased local hydrophobicity, volume, and structural strain, the SOD1 mutant exhibits a high propensity to unfold. Once unfolded or destabilized, the exposed hydrophobic surfaces drive the formation of cytotoxic protein aggregates, a hallmark of ALS1 pathogenesis.
+
+# BIBLIOGRAPHY
+- NCBI Nucleotide — Homo sapiens superoxide dismutase 1 (SOD1), mRNA (NM_000454.5): https://www.ncbi.nlm.nih.gov/nucleotide/NM_000454.5?report=genbank&log$=nuclalign&blast_rank=1&RID=D1RXYHDP016&from=78&to=542
+- NCBI Gene — SOD1 superoxide dismutase 1 [Homo sapiens (human)] (Gene ID: 6647): https://www.ncbi.nlm.nih.gov/gene?term=NM_000454[Nucleotide%20Accession]&RID=CEYYPTM2016&log$=genealign&blast_rank=1
+- NCBI BLAST — Homo sapiens SOD1 Wild-Type cDNA Alignment (RID: D1RXYHDP016): https://blast.ncbi.nlm.nih.gov/Blast.cgi#alnHdr_1780222508
+- NCBI Gene — SOD1 superoxide dismutase 1 [Pongo abelii (Sumatran orangutan)] (Gene ID: 100170281): https://www.ncbi.nlm.nih.gov/gene?RID=CEWB8PVV016&log$=genealign&blast_rank=35#bibliography
+- NCBI Nucleotide — Pongo abelii superoxide dismutase 1 (SOD1), mRNA (NM_001131969.1): https://www.ncbi.nlm.nih.gov/nucleotide/NM_001131969.1?report=genbank&log$=nuclalign&blast_rank=35&RID=CEYYPTM2016&from=81&to=548
+- NCBI BLAST — Pongo abelii SOD1 Sequence Alignment Result (RID: CEYYPTM2016): https://blast.ncbi.nlm.nih.gov/Blast.cgi#197102619
