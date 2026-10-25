@@ -14,3 +14,5 @@ When a motor neuron fires an electrical signal, every single muscle fiber in tha
 "Quadri-" means four.
 "-paresis" means weakness or incomplete paralysis (as opposed to -plegia, which means complete paralysis or the total inability to move).
 While a person with quadriparesis experiences significant muscle weakness in all four limbs, they still retain some degree of movement or control over them.
+
+**Bulbar** refers to the brainstem, specifically the medulla oblongata and the cranial motor nerves originating from it, which control the muscles in the head, face, tongue, mouth, and throat.
