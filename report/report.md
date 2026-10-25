@@ -59,10 +59,12 @@ As a result of this increased local hydrophobicity, volume, and structural strai
 - **MD:** Molecular Dynamics
 - **PDB:** Protein Data Bank
 - **RMSD:** Root-Mean-Square Deviation
+- **ROS:** Reactive oxygen species
 - **RSS:** Reactive Sulfur Species
 - **sALS:** Sporadic Amyotrophic Lateral Sclerosis
 - **SOD1:** Superoxide Dismutase 1
 - **TARDBP:** TAR DNA-Binding Protein
+- **UPR:** Unfolded protein response
 - **Val / V:** Valine
 - **WT:** Wild-Type
 
