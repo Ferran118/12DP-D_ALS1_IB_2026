@@ -1,6 +1,6 @@
 # Multi-Level Bioinformatic Analysis of the Pathogenic SOD1 p.Ala5Val Mutation in ALS1
 
-Ferran Sánchez, Luz Hurtado, Noa Galván, Leyre Zazpe
+**The SOD1 Factor** by Ferran Sánchez, Luz Hurtado, Noa Galván in collaboration with Leyre Zazpe
 
 Introduction to Bioinformatics · UPC · 2026–2027
 
