@@ -19,7 +19,7 @@ Status values: Completed · In progress · Incident · Pending · Canceled.
 | **1.3** | **Literature review** | | 06.10 | 22.10 | 06.10 | 25.10 | **Completed** | |
 | 1.3.1 | Bibliography selection | All | 06.10 | 09.10 | 06.10 | 25.10 | **Completed** | Every member searches sources |
 | 1.3.2 | Extraction of information and storage of sources | All | 13.10 | 21.10 | 09.10 | 24.10 | **Completed** |  |
-| 1.3.3 | In-text citations and reference list (Oxford SCIMED) | All | 15.10 | 22.10 | 15.10 | 25.10 | **Completed | Done while writing each section |
+| 1.3.3 | In-text citations and reference list (Oxford SCIMED) | All | 15.10 | 22.10 | 15.10 | 25.10 | **Completed** | Done while writing each section |
 | **1.4** | **Project monitoring** | | 09.10 | 26.10 | 09.10 | 25.10 | **Completed** | |
 | 1.4.1 | Project Status and live Gantt updates (Mon & Thu) | Ferran | 09.10 | 26.10 | 09.10 | 25.10 | **Completed** | Final Gantt must reflect real progress on 26/10 |
 | 1.4.2 | Risk monitoring | Leyre | 09.10 | 26.10 | 09.10 | 22.10 | **Completed** | Risks management |
