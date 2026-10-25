@@ -19,23 +19,23 @@
 | 2.1.1 | Disease cause at gene, protein, structure, function | Luz | 13/10 | 14/10 | **Completed** |
 | 2.1.2 | Variant selection and numbering mapping table | Leyre | 13/10 | 14/10 | Pending |
 | 2.1.3 | Wild-type vs mutant sequence alignment | Noa, Ferran | 15/10 | 16/10 | **Completed** |
-| 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15/10 | 16/10 | Pending |
-| 2.2.1 | Species selection (≥2) and ortholog retrieval | Noa | 13/10 | 14/10 | Pending |
-| 2.2.2 | MSA and conservation of mutated residues | Noa | 15/10 | 16/10 | Pending |
-| 2.2.3 | Selective pressure in evolution | Noa | 19/10 | 19/10 | Pending |
+| 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15/10 | 16/10 | **Completed** |
+| 2.2.1 | Species selection (≥2) and ortholog retrieval | Noa | 13/10 | 14/10 | **Completed** |
+| 2.2.2 | MSA and conservation of mutated residues | Noa | 15/10 | 16/10 | **Completed** |
+| 2.2.3 | Selective pressure in evolution | Noa | 19/10 | 19/10 | **Completed** |
 | 2.3.1 | Healthy vs disease differences (all levels) | Ferran | 19/10 | 19/10 | Pending |
 | 2.3.2 | Impact on patient function | Luz | 20/10 | 20/10 | **Completed** |
 | **3** | **Report writing (BMC Bioinformatics format)** | | | | |
 | 3.1.1 | Report skeleton (BMC sections) and figure plan | Ferran | 13/10 | 13/10 | In progress |
-| 3.1.2 | Background | Luz | 15/10 | 16/10 | Pending |
-| 3.1.3 | Methods | Leyre | 21/10 | 21/10 | Pending |
-| 3.2.1 | Mutant sequence findings | Leyre | 19/10 | 20/10 | Pending |
-| 3.2.2 | Evolutionary findings | Noa | 20/10 | 20/10 | Pending |
+| 3.1.2 | Background | All | 15/10 | 16/10 | In progress |
+| 3.1.3 | Methods | Noa | 21/10 | 21/10 | In progress |
+| 3.2.1 | Mutant sequence findings | Noa | 19/10 | 20/10 | **Completed** |
+| 3.2.2 | Evolutionary findings | Noa | 20/10 | 20/10 | **Completed** |
 | 3.2.3 | Structure and functional impact findings | Ferran | 20/10 | 20/10 | Pending |
 | 3.3.1 | Results interpretation | Noa | 21/10 | 21/10 | Pending |
 | 3.3.2 | Correlation with the disease | Luz | 21/10 | 21/10 | **Completed** |
 | 3.3.3 | Conclusions | Luz | 22/10 | 22/10 | **Completed** |
-| 3.4.1 | Word-count and figure-limit check | Ferran | 21/10 | 21/10 | Pending |
+| 3.4.1 | Word-count and figure-limit check | Ferran | 21/10 | 21/10 | **Completed** |
 | 3.4.2 | Integration of sections, Abstract and Keywords | Noa | 22/10 | 22/10 | Pending |
 | 3.4.3 | Reference and citation check | Luz | 23/10 | 23/10 | Pending |
 | 3.4.4 | Grammar and style check | Ferran | 23/10 | 23/10 | Pending |
