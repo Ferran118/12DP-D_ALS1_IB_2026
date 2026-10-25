@@ -4,7 +4,7 @@ Live task tracking. Same tasks and IDs as the Gantt chart in `gantt/`.
 
 **Updated up to: 09.10.2026**
 
-Status values: Completed · In progress · Incident · Pending · Backlog · Canceled.
+Status values: Completed · In progress · Incident · Pending · Canceled.
 
 | ID | Task | Resp. | Plan. start | Plan. finish | Real start | Real finish | Status | Notes |
 |---|---|---|---|---|---|---|---|---|
