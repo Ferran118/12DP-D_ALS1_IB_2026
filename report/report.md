@@ -244,6 +244,9 @@ Sequence alignment statistics generated via BLASTn were evaluated based on Query
 
 To ensure strict clarity across genetic and structural databases, variant nomenclature follows the Human Genome Variation Society (HGVS) standard relative to the mature 154-amino-acid SOD1 polypeptide. Under mature protein numbering (excluding the N-terminal initiator Methionine post-translationally cleaved in active human Cu/Zn-SOD), the alanine-to-valine substitution at codon 14 (c.14C>T) is designated as p.Ala4Val (A4V). This corresponds precisely to position 5 (p.Ala5Val) when referencing the full unprocessed precursor translation (RefSeq NP_000445.1) or full-length structural coordinates.
 
+### Statistical Analysis
+Instead of inferential hypothesis testing, our analysis relies on a quantitative bioinformatic framework. We characterized the variant by combining standard sequence alignment parameters (*E*-value = 0.0, percent identity) with structural 3D metrics ($\text{C}_\alpha$ RMSD and backbone displacement) and evolutionary conservation scoring via the BLOSUM62 matrix.
+
 ## Abbreviations
 - **AD:** Autosomal Dominant
 - **Ala / A:** Alanine
