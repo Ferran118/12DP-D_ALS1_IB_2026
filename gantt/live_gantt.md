@@ -36,7 +36,7 @@
 | 3.3.2 | Correlation with the disease | Luz | 21/10 | 21/10 | **Completed** |
 | 3.3.3 | Conclusions | Luz | 22/10 | 22/10 | **Completed** |
 | 3.4.1 | Word-count and figure-limit check | Ferran | 21/10 | 21/10 | **Completed** |
-| 3.4.2 | Integration of sections, Abstract and Keywords | Noa | 22/10 | 22/10 | Pending |
+| 3.4.2 | Integration of sections, Abstract, Abreviations and Keywords | Noa | 22/10 | 22/10 | **Completed** |
 | 3.4.3 | Reference and citation check | Luz | 23/10 | 23/10 | Pending |
 | 3.4.4 | Grammar and style check | Ferran | 23/10 | 23/10 | Pending |
 | 3.4.5 | Rubric and delivery checklist. Authors' contributions | Luz | 23/10 | 23/10 | Pending |
