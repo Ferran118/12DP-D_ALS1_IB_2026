@@ -33,15 +33,15 @@ Status values: Completed · In progress · Incident · Pending · Canceled.
 | **2.2** | **Evolutionary conservation** | Noa | 13.10 | 19.10 | 08.10 | 22.10 | **Completed** | |
 | 2.2.1 | Species selection (≥ 2) and ortholog retrieval | Noa | 13.10 | 14.10 | 08.10 | 13.10 | **Completed** | Choose and compare ortholog's proteins with human's (SOD1). |
 | 2.2.2 | Multiple sequence alignment and conservation of mutated residues | Noa | 15.10 | 16.10 | 16.10 | 19.10 | **Completed** | Alignment to figure out the conservation and the change between other species. |
-| 2.2.3 | Selective pressure in evolution | Noa | 19.10 | 19.10 | 20.10 | 22.10 | **Completed** |  |
+| 2.2.3 | Selective pressure in evolution | Noa | 19.10 | 19.10 | 20.10 | 22.10 | **Completed** | Detect and explain if there are highly conserved regions across the three species in the CDS and protein sequences, and why. |
 | **2.3** | **Structure–function impact** | Ferran & Luz | 19.10 | 20.10 | 19.10 | 23.10 | **Completed** | |
 | 2.3.1 | Healthy vs disease differences at gene, protein, structure and function level | Ferran | 19.10 | 19.10 | 20.10 | 21.10 | **Completed** | Comparing healthy vs variant at all levels explaining each differences. |
 | 2.3.2 | Impact on patient function | Luz | 20.10 | 20.10 | 21.10 | 23.10 | **Completed** | Analysis and findings about the impact of the mutation on patients. |
 | **3** | **Report writing (BMC Bioinformatics format)** | All | 13.10 | 23.10 | 13.10 | 25.10 | **Completed** | |
 | **3.1** | **Background and Methods** | All | 13.10 | 21.10 | 13.10 | 25.10 | **Completed** | |
 | 3.1.1 | Report skeleton (BMC sections) and figure plan | Ferran | 13.10 | 13.10 | 08.10 | 13.10  | **Completed** | Report structure uploaded by Leyre on 08/10. Section owners and word budget pending. |
-| 3.1.2 | Background | All | 15.10 | 16.10 | 21.10 | 25.10 | **Completed** | Introduct the resukts of the project |
-| 3.1.3 | Methods | Noa | 21.10 | 21.10 | 24.10 | 25.10 | **Completed** |  |
+| 3.1.2 | Background | All | 15.10 | 16.10 | 21.10 | 25.10 | **Completed** | Introduct the results of the project |
+| 3.1.3 | Methods | Noa | 21.10 | 21.10 | 24.10 | 25.10 | **Completed** | Explain how we have extracted the information of the sources. |
 | **3.2** | **Results** | Noa & Ferran | 19.10 | 20.10 | 19.10 | 25.10 | **Completed** | Finish our report results |
 | 3.2.1 | Mutant sequence findings | Noa | 19.10 | 20.10 | 21.10 | 21.10 | **Completed** | Report on the final report our mutant sequence findings |
 | 3.2.2 | Evolutionary findings | Noa | 20.10 | 20.10 | 21.10 | 22.10 | **Completed** | Report on the final report our comparison on evolution findings. |
