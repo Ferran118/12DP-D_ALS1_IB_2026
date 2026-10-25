@@ -18,3 +18,5 @@ While a person with quadriparesis experiences significant muscle weakness in all
 **Bulbar** refers to the brainstem, specifically the medulla oblongata and the cranial motor nerves originating from it, which control the muscles in the head, face, tongue, mouth, and throat.
 
 A **point mutation** is a genetic mutation that occurs when a single nucleotide base pair in DNA is altered, inserted, or deleted.
+
+**Dimerization** is the chemical or biological process where two identical or similar subunit molecules (monomers) combine to form a single, larger molecular complex called a dimer.
