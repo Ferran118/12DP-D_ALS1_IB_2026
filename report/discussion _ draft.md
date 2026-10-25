@@ -1,4 +1,4 @@
-# DISCUSSION (854)
+# DISCUSSION (854 words)
 ## Sequence Alignment and Physicochemical Alterations
 Our molecular analysis of the *SOD1* gene provides direct insight into how a single genomic disruption initiates the complex cascade driving Amyotrophic Lateral Sclerosis 1 (ALS1). Pairwise alignment confirmed that the wild-type coding sequence matches human *SOD1* with 100% query cover and complete identity. The c.14C>T single-nucleotide substitution in exon 1 alters the fifth codon from GCC to GTC, translating into the missense substitution p.Ala5Val within the 154-amino-acid protein. From a physicochemical standpoint, replacing a small Alanine residue with a larger, more hydrophobic Valine introduces significant spatial and energetic tension. Valine’s bulky, branched side chain increases molecular volume and generates steric strain, as the electron clouds of its additional methyl groups repel surrounding atomic structures. At the secondary structure level, this added bulk disrupts backbone dynamics, decreasing the local propensity for α-helix formation and favoring a rigid β-sheet conformation.
 
