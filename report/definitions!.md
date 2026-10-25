@@ -1,4 +1,4 @@
-### DEFINITIONS (Project Disease) ###
+### DEFINITIONS !! ###
 
 **SOD1 (Superoxide Dismutase 1)** is a crucial antioxidant enzyme responsible for protecting cells from oxidative stress. When mutations occur in its gene, the proteins misfold and form toxic aggregates, which is a core pathogenic mechanism in certain types of amyotrophic lateral sclerosis (ALS).
   
@@ -20,3 +20,5 @@ While a person with quadriparesis experiences significant muscle weakness in all
 A **point mutation** is a genetic mutation that occurs when a single nucleotide base pair in DNA is altered, inserted, or deleted.
 
 **Dimerization** is the chemical or biological process where two identical or similar subunit molecules (monomers) combine to form a single, larger molecular complex called a dimer.
+
+**Oxidative stress** is an imbalance in your body between damaging molecules (free radicals) and protective molecules (antioxidants). When free radicals outnumber antioxidants, they steal electrons from healthy cells, causing cellular damage—much like rust gradually breaking down metal.
