@@ -48,8 +48,8 @@ Status values: Completed · In progress · Incident · Pending · Backlog · Can
 | 3.2.3 | Structure and functional impact findings | Ferran | 20.10 | 20.10 | 21.10 | 22.10 | **Completed** |  |
 | **3.3** | **Discussion and Conclusions** | | 21.10 | 22.10 | | | | |
 | 3.3.1 | Results interpretation | Noa | 21.10 | 21.10 | 22.10 |  | In progress |  |
-| 3.3.2 | Correlation with the disease | Luz | 21.10 | 21.10 | 24.10 |  | In progress |  |
-| 3.3.3 | Conclusions | Luz | 22.10 | 22.10 | 24.10 |  | In progress | Synthesis only: no new analyses after the 21/10 content freeze |
+| 3.3.2 | Correlation with the disease | Luz | 21.10 | 21.10 | 24.10 | 24.10 | **Completed** | Done in task 2.1 |
+| 3.3.3 | Conclusions | Luz | 22.10 | 22.10 | 24.10 | 25.10 | **Completed** | Synthesis only: no new analyses after the 21/10 content freeze |
 | **3.4** | **Integration and final review** | | 21.10 | 23.10 | | | | |
 | 3.4.1 | Word-count and figure-limit check | Ferran | 21.10 | 21.10 |  |  | Pending | Contingency of the format risk (check on 21/10) |
 | 3.4.2 | Integration of sections, Abstract and Keywords | Noa | 22.10 | 22.10 |  |  | Pending | Synthesis only: no new analyses after the 21/10 content freeze |
