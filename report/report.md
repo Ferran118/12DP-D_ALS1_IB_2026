@@ -54,11 +54,16 @@ At the secondary structure level, the added side-chain bulk alters local backbon
 In the Wild-type state of SOD1 it contains a Copper ion ($\\text{Cu}^{2+}$) and a strctural Zinc ion ($\\text{Zn}^{2+}$). Residue 5 lies within the variable N-terminal domain (residues 1–60), which forms an essential part of the homodimer contact interface. This structural stress destabilizes the interface between the two subunits, causing the homodimer to separate into individual monomers. Consequently, the protein loses its structural zinc ion $\\text{Zn}^{2+}$, which its function consists in keep the homodimer structure and leads to unfold the protein(1),(2).
 
 **Function:**
-The primary biological role of wild-type SOD1 is to function as an antioxidant enzyme, catalyzing the dismutation of toxic superoxide radicals O produced during metabolic respiration into hydrogen peroxide ($\text{H}_2\text{O}_2$) and molecular oxygen ($\text{O}_2$)
+The primary biological role of wild-type SOD1 is to function as an antioxidant enzyme, catalyzing the dismutation of toxic superoxide radicals $\\text{O}\_2^{\\bullet -}$ produced during metabolic respiration into hydrogen peroxide ($\text{H}_2\text{O}_2$) and molecular oxygen ($\text{O}_2$). Also, catalyzes the oxidation of hydrogen sulfide (H2S) to sulfate, playing an important role in detoxifying H2S and limiting the accumulation of reactive sulfur species (RSS) such as persulfides and polysulfides(2). The p.Ala5Val mutation reduces overall protein stability and impairs catalytic enzymatic activity. However, the principal disease mechanism in ALS1 is not a simple loss of function, but rather a toxic gain of function. When mutant SOD1 loses its structural zinc ion or dissociates into monomers, it partially unfolds and exposes both its internal hydrophobic core and the newly introduced Valine side chain. To minimize contact with the aqueous cellular environment, these exposed hydrophobic surfaces drive mutant SOD1 molecules to abnormally self-assemble into cytotoxic, amiloid-like fibrillar aggregates, which ultimately trigger motor neuron degeneration in ALS1(2),(3).
+
+**Patient**:
+
+As toxic aggregates accumulate in upper and lower motor neurons, they cause oxidative stress, mitochondrial damage, and cell death. Finally, this triggers Amyotrophic Lateral Sclerosis Type 1 (ALS1), resulting in progressive muscle weakness, atrophy, and fatal paralysis(2),(4).
 
 [1]: RCSB
 [2]: UniProt
-
+[3]: PubMed
+[4]: MDPI
 
 
 ## Discussion
