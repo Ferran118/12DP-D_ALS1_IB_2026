@@ -12,12 +12,12 @@
 | 1.3.1 | Bibliography selection | All | 06/10 | 22/10 | In progress |
 | 1.3.2 | Extraction of information and storage of sources | All | 13/10 | 21/10 | Pending |
 | 1.3.3 | In-text citations and reference list | All | 15/10 | 22/10 | Pending |
-| 1.4.1 | Project Status and live Gantt updates | Ferran | 09/10 | 26/10 | Pending |
-| 1.4.2 | Risk monitoring | Leyre | 09/10 | 26/10 | Pending |
+| 1.4.1 | Project Status and live Gantt updates | Ferran | 09/10 | 26/10 | In progress |
+| 1.4.2 | Risk monitoring | Leyre | 09/10 | 26/10 | Incident |
 | 1.4.3 | Retrospective preparation | Ferran | 21/10 | 21/10 | Pending |
 | **2** | **Bioinformatic analysis** | | | | |
 | 2.1.1 | Disease cause at gene, protein, structure, function | Luz | 13/10 | 14/10 | **Completed** |
-| 2.1.2 | Variant selection and numbering mapping table | ? | 13/10 | 14/10 | **Completed** |
+| 2.1.2 | Variant selection and numbering mapping table | unknown | 13/10 | 14/10 | **Completed** |
 | 2.1.3 | Wild-type vs mutant sequence alignment | Noa, Ferran | 15/10 | 16/10 | **Completed** |
 | 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15/10 | 16/10 | **Completed** |
 | 2.2.1 | Species selection (≥2) and ortholog retrieval | Noa | 13/10 | 14/10 | **Completed** |
