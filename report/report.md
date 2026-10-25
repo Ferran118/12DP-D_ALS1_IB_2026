@@ -15,15 +15,15 @@ Introduction to Bioinformatics · UPC · 2026–2027
 ## Keywords
 
 ## Background
-## **Analysis of ALS1 across four specific biological levels**
+### **Analysis of ALS1 across four specific biological levels**
 
 Amyotrophic lateral sclerosis is a neurodegenerative disorder characterized by the death of motor neurons in the brain, brainstem, and spinal cord, resulting in fatal paralysis. ALS usually begins with asymmetric involvement of the muscles in middle adult life. Approximately 10% of ALS cases are familial. It is genetically heterogeneous, meaning that the disease phenotype is not linked to a single genetic locus, but can be triggered by pathogenic mutations across multiple distinct genes (e.g., SOD1, C9orf72, FUS, and TARDBP). Consequently, the precise genetic cause can vary significantly between patients.
 
 Today we're going to break down the cause of the ALS1 disease on four biological levels: gene, protein, structure, and function.
 
-## Genetic Level Causation
+### Genetic Level Causation
 
-### The SOD1 Gene and Locus. (Genetic heterogeneity of ALS)
+#### The SOD1 Gene and Locus. (Genetic heterogeneity of ALS)
 
 Our study focuses on the SOD1 (Superoxide Dismutase 1) gene, located at chromosome 21 at locus 21q22.11.
 
@@ -39,7 +39,7 @@ Pathogenic variants in SOD1 account for approximately 12–20% of familial ALS (
 
 ---
 
-## Protein Level: The Cu/Zn-SOD Enzyme
+### Protein Level: The Cu/Zn-SOD Enzyme
 
 The SOD1 gene provides the instructions for creating the copper/zinc superoxide dismutase (Cu/Zn-SOD) enzyme.
 
@@ -48,19 +48,19 @@ The SOD1 gene provides the instructions for creating the copper/zinc superoxide 
 - **Quaternary State:** It naturally operates as a homodimer, meaning two identical SOD1 protein subunits must bind together to function properly. (In a non-covalent bond)
 - **Cofactors:** Each SOD1 subunit requires the binding of two essential metal ions. A copper ion ($\text{Cu}^{2+}$) is critical for the enzyme's catalytic activity - while a zinc ion ($\text{Zn}^{2+}$) is required to promote dimerization and stabilize the protein's native three-dimensional folding.
 
-### Normal Physiological Protein Function
+#### Normal Physiological Protein Function
 
 Physiologically, the protein functions as a vital antioxidant metalloenzyme, destroying the toxic superoxide radicals that are naturally produced within cells, therefore protecting biological systems from oxidative stress.
 
 Furthermore, SOD1 catalyzes the oxidation of hydrogen sulfide ($\text{H}_2\text{S}$) to sulfate. This process plays an important role for detoxifying $\text{H}_2\text{S}$ and limiting the cellular accumulation of reactive sulfur species (RSS), such as persulfides and polysulfides.
 
-### Pathological Mechanism (Fibrillar Aggregation)
+#### Pathological Mechanism (Fibrillar Aggregation)
 
 Since the structural integrity is heavily dependent on its bound zinc ions and an internal structural clip,  the absence of either this disulfide bond or the bound zinc, both wild-type and ALS1-associated mutant SOD1 proteins become structurally unstable. This instability causes the protein to misfold, giving it a tendency to form fibrillar aggregates. These insoluble clumps exert severe cytotoxic effects, driving motor neuron degeneration.
 
 ---
 
-## Structural Level: Destabilization and Aggregation
+### Structural Level: Destabilization and Aggregation
 
 At the structural level, mutant SOD1 proteins undergo severe conformational changes that lead directly to disease pathology.
 
@@ -70,7 +70,7 @@ At the structural level, mutant SOD1 proteins undergo severe conformational chan
 
 ---
 
-## Functional Level: Toxic Gain-of-Function
+### Functional Level: Toxic Gain-of-Function
 
 The functional breakdown of SOD1 affects specifically motor neurons.
 
@@ -84,6 +84,19 @@ The functional breakdown of SOD1 affects specifically motor neurons.
 The wild-type (WT) coding sequence (CDS) matches the human superoxide dismutase 1 (SOD1) gene with 100% Query Cover, an E-value of 0.0, and 100.00% Percent Identity. The WT CDS of the protein sequence corresponds to the superoxide dismutase [Cu-Zn], confirming complete identity between the nucleic acid and protein records.
 
 Alignment between the WT and mutant CDS identified a single-nucleotide substitution, c.14C>T. This nucleotide change alters the fifth codon from GCC to GTC. According to the standard genetic code, the wild-type codon GCC translates to Alanine (Ala), whereas the mutated codon GTC translates to Valine (Val). Consequently, this single base change drives a missense mutation at the protein level, resulting in the p.Ala5Val substitution.
+
+**Nucleotide substitution (CDS):**
+
+![Figure 1: nucleotide_substitution](report/figures/Figure_1:nucleotide_substitution.png)
+
+**p.Ala5Val substitution:**
+
+|  | sequence |
+|---|---| 
+| Query 1 | 1 - MAT**KAV**CVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTS - 60 |
+| Subj 1 | 1 - MAT**KVV**CVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTS - 60 |
+
+(Query 1 is the WT sequence)
 
 ### Evolutionary findings
 Multiple sequence alignment of the SOD1 coding sequences across Homo sapiens, Pongo abelii, and Bos taurus reveals a highly conserved region between positions 178 and 237. Nonetheless, nucleotide variation is present: the human CDS alignment displays a 3-nucleotide gap at positions 35–37 compared to Pongo abelii, while Bos taurus exhibits additional single-nucleotide substitutions across this segment. At the protein level, SOD1 exhibits higher conservation than at the CDS level. The C-terminal domain (amino acids 121–154) is nearly identical across all three species, showing only three amino acid differences between Pongo abelii and Bos taurus. Similarly, the central domain (amino acids 61–100) is strongly conserved. Conversely, the N-terminal region (amino acids 1–60) harbors the greatest variability, containing several substitutions—such as a Valine at position 5 in Pongo abelii and Bos taurus relative to human Alanine—as well as a 2-amino-acid gap at positions 24–25 unique to Bos taurus.
