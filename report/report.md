@@ -56,14 +56,37 @@ In the Wild-type state of SOD1 it contains a Copper ion ($\\text{Cu}^{2+}$) and 
 **Function:**
 The primary biological role of wild-type SOD1 is to function as an antioxidant enzyme, catalyzing the dismutation of toxic superoxide radicals $\\text{O}\_2^{\\bullet -}$ produced during metabolic respiration into hydrogen peroxide ($\text{H}_2\text{O}_2$) and molecular oxygen ($\text{O}_2$). Also, catalyzes the oxidation of hydrogen sulfide (H2S) to sulfate, playing an important role in detoxifying H2S and limiting the accumulation of reactive sulfur species (RSS) such as persulfides and polysulfides(2). The p.Ala5Val mutation reduces overall protein stability and impairs catalytic enzymatic activity. However, the principal disease mechanism in ALS1 is not a simple loss of function, but rather a toxic gain of function. When mutant SOD1 loses its structural zinc ion or dissociates into monomers, it partially unfolds and exposes both its internal hydrophobic core and the newly introduced Valine side chain. To minimize contact with the aqueous cellular environment, these exposed hydrophobic surfaces drive mutant SOD1 molecules to abnormally self-assemble into cytotoxic, amiloid-like fibrillar aggregates, which ultimately trigger motor neuron degeneration in ALS1(2),(3).
 
-**Patient**:
 
-As toxic aggregates accumulate in upper and lower motor neurons, they cause oxidative stress, mitochondrial damage, and cell death. Finally, this triggers Amyotrophic Lateral Sclerosis Type 1 (ALS1), resulting in progressive muscle weakness, atrophy, and fatal paralysis(2),(4).
 
-(1): RCSB
-(2): UniProt
-(3): PubMed
-(4): MDPI
+**Impact on Patient Function** - *Pathophysiology & Clinical Phenotype*
+
+The primary physiological mechanism linking molecular SOD1 defects to patient dysfunction is the accumulation of misfolded Superoxide Dismutase 1 fibrillar aggregates within the neuronal cytoplasm. Motor neurons possess exceptionally long axons and high metabolic demands, making them uniquely sensitive to aggregate-induced toxicity. The accumulation of these aggregates clogs cellular machinery, driving pathogenesis through three primary mechanisms: 
+
+The disruption of axonal transport happens when insoluble aggregates impede both anterograde and retrograde transport, impairing the delivery of essential proteins, organelles, and nutrients along the long axons of motor neuron. 
+
+Mithocondrial disfunction happens when aggregates associate with the mitochondrial membrane, causing cellular energy failure and exacerbating intracellular oxidative stress. 
+
+Endoplasmic reticulum stress, ER being the responsible part of the cell for protein folding, stress occurs when too many misfolded proteins build up, overloading the cell's system for fixing them and ultimately triggering a programmed cell death.
+
+*Clinical Phenotype and Symptom Progression*
+
+The progressive apoptosis of upper motor neurons (located in the motor cortex) and lower motor neurons (located in the brainstem and spinal cord) breaks communication channels between the central nervous system and skeletal muscles.
+
+As motor unit degeneration advances, patients experience a characteristically progressive clinical phenotype with early motor symptoms such as muscle weakness, muscle atrophy (amyotrophy), fasciculations (involuntary muscle twitching caused by spontaneous nerve firing), and spasticity in the limbs, severely affecting voluntary tasks such as walking, gripping, and fine motor movement. 
+
+Degeneration and damage of the motor neurons in the brainstem lead to dysarthria (difficulty speaking and articulating) and dysphagia (difficulty swallowing), these impairments carry critical medical risks for the patient, predisposing them to severe malnutrition and aspiration pneumonia.
+
+At the end stage, progressive weakness spreads to the diaphragm and intercostal muscles, culminating in severe hypoventilation, fatal respiratory paralysis and failure.
+
+*Genotype-Phenotype Correlation and Prognosis*
+
+The clinical severity, age of onset (patient's age when those first symptoms become noticeable), and rate of disease progression vary significantly depending on the specific SOD1 point mutation present in the patient:
+
+·A4V Mutation —> This mutation is associated with a highly aggressive, rapidly progressive clinical phenotype, resulting in severe early quadriparesis and a mean survival time of approximately 1.2 years post-onset (onset: when the first symptoms of the disease appear).
+·Homozygous D90A Mutation —> This mutation displays an autosomal recessive inheritance pattern associated with a much slower, indolent disease progression, with patient survival often exceeding 10 years.
+
+Despite variations in survival rates, the ultimate functional outcome for all affected patients is severe motor disability followed by terminal respiratory muscle failure.
+
 
 
 ## Discussion
