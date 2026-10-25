@@ -157,8 +157,8 @@ At the end stage, progressive weakness spreads to the diaphragm and intercostal 
 
 The clinical severity, age of onset (patient's age when those first symptoms become noticeable), and rate of disease progression vary significantly depending on the specific SOD1 point mutation present in the patient:
 
-·A4V Mutation —> This mutation is associated with a highly aggressive, rapidly progressive clinical phenotype, resulting in severe early quadriparesis and a mean survival time of approximately 1.2 years post-onset (onset: when the first symptoms of the disease appear).
-·Homozygous D90A Mutation —> This mutation displays an autosomal recessive inheritance pattern associated with a much slower, indolent disease progression, with patient survival often exceeding 10 years.
+· A5V Mutation —> This mutation is associated with a highly aggressive, rapidly progressive clinical phenotype, resulting in severe early quadriparesis and a mean survival time of approximately 1.2 years post-onset (onset: when the first symptoms of the disease appear).
+· Homozygous D90A Mutation —> This mutation displays an autosomal recessive inheritance pattern associated with a much slower, indolent disease progression, with patient survival often exceeding 10 years.
 
 Despite variations in survival rates, the ultimate functional outcome for all affected patients is severe motor disability followed by terminal respiratory muscle failure.
 
