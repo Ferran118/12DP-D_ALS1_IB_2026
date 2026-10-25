@@ -16,3 +16,5 @@ When a motor neuron fires an electrical signal, every single muscle fiber in tha
 While a person with quadriparesis experiences significant muscle weakness in all four limbs, they still retain some degree of movement or control over them.
 
 **Bulbar** refers to the brainstem, specifically the medulla oblongata and the cranial motor nerves originating from it, which control the muscles in the head, face, tongue, mouth, and throat.
+
+A **point mutation** is a genetic mutation that occurs when a single nucleotide base pair in DNA is altered, inserted, or deleted.
