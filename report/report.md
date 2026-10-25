@@ -150,8 +150,33 @@ The clinical severity, age of onset (patient's age when those first symptoms bec
 Despite variations in survival rates, the ultimate functional outcome for all affected patients is severe motor disability followed by terminal respiratory muscle failure.
 
 
-
 ## Discussion
+
+### Sequence Alignment and Physicochemical Alterations
+Our molecular analysis of the *SOD1* gene provides direct insight into how a single genomic disruption initiates the complex cascade driving Amyotrophic Lateral Sclerosis 1 (ALS1). Pairwise alignment confirmed that the wild-type coding sequence matches human *SOD1* with 100% query cover and complete identity. The c.14C>T single-nucleotide substitution in exon 1 alters the fifth codon from GCC to GTC, translating into the missense substitution p.Ala5Val within the 154-amino-acid protein. From a physicochemical standpoint, replacing a small Alanine residue with a larger, more hydrophobic Valine introduces significant spatial and energetic tension. Valine’s bulky, branched side chain increases molecular volume and generates steric strain, as the electron clouds of its additional methyl groups repel surrounding atomic structures. At the secondary structure level, this added bulk disrupts backbone dynamics, decreasing the local propensity for α-helix formation and favoring a rigid β-sheet conformation.
+
+### Structural Distortion and Dimer Disruption
+Quantitative 3D superposition reveals a local backbone displacement of 0.379 Å at variant position 4/5 and an overall Cα Root-Mean-Square Deviation (RMSD) of 0.667 Å relative to wild-type structures (PDB ID: 2C9V). Although this spatial shift is minor, its functional impact is severe because residue 4/5 lies within the N-terminal domain (residues 1–60), an essential component of the non-covalent homodimer contact interface. The newly introduced methyl groups of Valine interact with neighboring hydrophobic residues to form a bulky hydrophobic block, distorting interface geometry and destabilizing subunit binding. This structural stress causes the homodimer to separate into individual monomers, leading to the loss of the structural zinc ion (Zn²⁺) responsible for maintaining native tertiary folding. Deprived of its zinc anchor, mutant SOD1 unfolds, exposing its internal hydrophobic core and the Valine side chain to the cytosolic environment.
+
+### Evolutionary Analysis and Structural Constraints
+Multiple sequence alignment across *Homo sapiens*, *Pongo abelii*, and *Bos taurus* demonstrates that amino acid conservation is significantly higher than CDS conservation due to genetic code degeneracy. Synonymous substitutions buffer the protein against DNA sequence divergence, preserving structural constraints over evolutionary time. Ultra-conserved residues across mammalian orthologs form catalytic active sites, coordinate metal cofactors (Cu²⁺) and (Zn²⁺), establish the intramolecular disulfide bridge (Cys57–Cys146), or stabilize the core eight-stranded anti-parallel β-barrel fold. Mutations at these ultra-conserved positions impair biological function and are purged by strong purifying selection.
+
+Interestingly, the human disease variant (p.Ala4Val) does not reside within an ultra-conserved catalytic loop, but in the structurally variable N-terminal region where *Pongo abelii* and *Bos taurus* naturally feature Valine at position 5. Functionally, however, this region forms part of the human homodimer contact interface. Substituting Alanine for Valine alters human binding geometry, creates an unnatural hydrophobic patch, and impairs (Zn²⁺) coordination. That Valine-5 is tolerated in orangutans and cattle shows it is not inherently toxic in all structural contexts; its pathogenicity in humans stems from breaking co-evolved hydrophobic contact networks unique to human homodimer packing.
+
+### Molecular Pathophysiology and Toxic Gain-of-Function
+Under normal physiological conditions, wild-type Cu/Zn-SOD acts as an essential antioxidant, dismutating toxic superoxide radicals (O₂•-) into hydrogen peroxide (H₂O₂) and oxygen (O₂), while also oxidizing hydrogen sulfide (H₂S) to sulfate to prevent reactive sulfur species (RSS) accumulation (Suthar & Lee, 2023). Although p.Ala5Val reduces protein stability and catalytic activity, ALS1 pathogenesis is primarily driven by a toxic gain-of-function (Redler & Dokholyan, 2012). Exposed hydrophobic surfaces on zinc-deficient, unfolded monomers drive aberrant self-assembly into cytotoxic, amyloid-like fibrillar aggregates (Redler & Dokholyan, 2012; Suthar & Lee, 2023). Motor neurons are uniquely sensitive to aggregate toxicity due to their extreme axonal lengths (up to 1 meter) and high metabolic demands. Cytosolic aggregate accumulation clogs cellular machinery via three core mechanisms:
+
+1. Axonal Transport Disruption: Impairing anterograde and retrograde motor-protein transport along extended axons.
+2. Mitochondrial Dysfunction: Binding to outer mitochondrial membranes, inducing ATP failure and oxidative stress.
+3. Endoplasmic Reticulum (ER) Stress: Overwhelming protein-folding capacity and triggering apoptotic pathways.
+
+### Clinical Phenotype Mapping and Genotype-Phenotype Correlations
+Progressive apoptosis of upper motor neurons (motor cortex) and lower motor neurons (brainstem/spinal cord) severs signaling channels to skeletal target muscles. Patients experience progressive early motor symptoms including muscle weakness, amyotrophy, fasciculations, and limb spasticity (Gagliardi et al., 2023). Bulbar motor neuron degeneration causes dysarthria and dysphagia, predisposing patients to severe malnutrition and aspiration pneumonia. Terminal disease spreads to the diaphragm and intercostal muscles, culminating in severe hypoventilation and fatal respiratory failure.
+
+Clinical severity and progression rate vary by mutation: the p.Ala4Val variant correlates with an aggressive phenotype marked by rapid quadriparesis and a mean survival of ~1.2 years post-onset, whereas the homozygous p.Asp90Ala variant displays an autosomal recessive pattern with an indolent course where survival often exceeds 10 years (Gagliardi et al., 2023). Across all variants, the uniform terminal outcome remains severe motor disability followed by fatal respiratory failure.
+
+### Limitations and Future Directions
+Study limitations include focusing primarily on p.Ala4Val and D90A, restricting evolutionary sampling to three mammals, relying on static PDB coordinates (2C9V) without explicit-solvent molecular dynamics (MD) simulations, and lacking in vitro biophysical validation. Future research should expand sequence alignments further down the phylogenetic tree (non-mammalian vertebrates and invertebrates) to trace ancestral core evolution, execute long-timescale MD simulations of monomer unfolding, and perform virtual screening of small-molecule chaperones to stabilize the N-terminal homodimer interface.
 
 ## Conclusions
 
