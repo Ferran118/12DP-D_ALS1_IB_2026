@@ -60,10 +60,10 @@ The primary biological role of wild-type SOD1 is to function as an antioxidant e
 
 As toxic aggregates accumulate in upper and lower motor neurons, they cause oxidative stress, mitochondrial damage, and cell death. Finally, this triggers Amyotrophic Lateral Sclerosis Type 1 (ALS1), resulting in progressive muscle weakness, atrophy, and fatal paralysis(2),(4).
 
-[1]: RCSB
-[2]: UniProt
-[3]: PubMed
-[4]: MDPI
+(1): RCSB
+(2): UniProt
+(3): PubMed
+(4): MDPI
 
 
 ## Discussion
