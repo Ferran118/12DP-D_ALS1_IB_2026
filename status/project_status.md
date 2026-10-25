@@ -26,8 +26,8 @@ Status values: Completed · In progress · Incident · Pending · Canceled.
 | 1.4.3 | Retrospective preparation | Ferran | 21.10 | 21.10 | 21.10 | 25.10 | **Completed** | Gantt and status Updates |
 | **2** | **Bioinformatic analysis** | | 13.10 | 20.10 | 08.10 | 23.10 | **Completed** | |
 | **2.1** | **Sequence, mutation and structure analysis** | All | 13.10 | 16.10 | 08.10 | 15.10 | **Completed** | |
-| 2.1.1 | Disease cause at gene, protein, structure and function level | Luz | 13.10 | 14.10 | 16.10 | 20.10 | **Completed** | Reseacrh about de cause of the disease at different levels.  |
-| 2.1.2 | Variant selection and numbering mapping table | ? | 13.10 | 14.10 | ? | ? | **Completed** | Contingency for risks 'too much information' and 'source mismatch'. |
+| 2.1.1 | Disease cause at gene, protein, structure and function level | Luz | 13.10 | 14.10 | 16.10 | 20.10 | **Completed** | Research about de cause of the disease at different levels.  |
+| 2.1.2 | Variant selection and numbering mapping table | unknown | 13.10 | 14.10 | unknown | unknown | **Completed** | Contingency for risks 'too much information' and 'source mismatch'. |
 | 2.1.3 | Wild-type vs mutant sequence alignment | Ferran & Noa | 15.10 | 16.10 | 08.10 | 09.10 | **Completed** | Comparison of WT sequence with mutants sequence.  |
 | 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15.10 | 16.10 | 15.10 | 15.10 | **Completed** | Add the variants in the SOD1 WT protein on 3D structure. |
 | **2.2** | **Evolutionary conservation** | Noa | 13.10 | 19.10 | 08.10 | 22.10 | **Completed** | |
@@ -49,7 +49,7 @@ Status values: Completed · In progress · Incident · Pending · Canceled.
 | **3.3** | **Discussion and Conclusions** | Noa & Luz | 21.10 | 22.10 | 22.10 | 25.10 | **Completed** | |
 | 3.3.1 | Results interpretation | Noa | 21.10 | 21.10 | 22.10 | 25.10  | **Completed** | Analysis of the resukt and its interpretation |
 | 3.3.2 | Correlation with the disease | Luz | 21.10 | 21.10 | 24.10 | 24.10 | **Completed** | Done in task 2.1 |
-| 3.3.3 | Conclusions | Luz | 22.10 | 22.10 | 24.10 | 25.10 | **Completed** | Synthesis only: no new analyses after the 21/10 content freeze |
+| 3.3.3 | Conclusions | Luz | 22.10 | 22.10 | 24.10 | 25.10 | **Completed** | Synthesis overall conclusion |
 | **3.4** | **Integration and final review** | All | 21.10 | 23.10 | | | | |
 | 3.4.1 | Word-count and figure-limit check | Ferran | 21.10 | 21.10 |  |  | Pending | Contingency of the format risk (check on 21/10) |
 | 3.4.2 | Integration of sections, Abstract and Keywords | Noa | 22.10 | 22.10 |  |  | Pending | Synthesis only: no new analyses after the 21/10 content freeze |
@@ -66,7 +66,7 @@ Status values: Completed · In progress · Incident · Pending · Canceled.
 | M1 | Gantt v1 delivered (Atenea, 22:00) | Luz | 09.10 | 09.10 |  |  | **Completed** |  |
 | M2 | Variants and species selected | — | 14.10 | 14.10 |  |  | Pending |  |
 | M3 | Analyses completed | — | 20.10 | 20.10 |  |  | Pending |  |
-| M4 | Content freeze | — | 21.10 | 21.10 |  |  | Pending |  |
+| M4 | Content freeze | — | 21.10 | 21.10 | 25.10 |  | In progress |  |
 | M5 | Status retrospective | — | 22.10 | 22.10 | 25.10 | 25.10 | **Completed** | Analysis Status |
 | M6 | Final delivery (GitHub, 22:00) | — | 26.10 | 26.10 |  |  | Pending |  |
 | M7 | Oral presentation | — | 05.11 | 05.11 |  |  | Pending |  |
