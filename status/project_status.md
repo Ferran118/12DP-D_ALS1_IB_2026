@@ -25,7 +25,7 @@ Status values: Completed · In progress · Incident · Pending · Canceled.
 | 1.4.2 | Risk monitoring | Leyre | 09.10 | 26.10 | 09.10 | 22.10 | **Completed** | Risks management |
 | 1.4.3 | Retrospective preparation | Ferran | 21.10 | 21.10 | 21.10 | 25.10 | **Completed** | Gantt and status Updates |
 | **2** | **Bioinformatic analysis** | | 13.10 | 20.10 | 08.10 | 23.10 | **Completed** | |
-| **2.1** | **Sequence, mutation and structure analysis** | | 13.10 | 16.10 | 08.10 | 15.10 | **Completed** | |
+| **2.1** | **Sequence, mutation and structure analysis** | All | 13.10 | 16.10 | 08.10 | 15.10 | **Completed** | |
 | 2.1.1 | Disease cause at gene, protein, structure and function level | Luz | 13.10 | 14.10 | 16.10 | 20.10 | **Completed** | Reseacrh about de cause of the disease at different levels.  |
 | 2.1.2 | Variant selection and numbering mapping table | ? | 13.10 | 14.10 | ? | ? | **Completed** | Contingency for risks 'too much information' and 'source mismatch'. |
 | 2.1.3 | Wild-type vs mutant sequence alignment | Ferran & Noa | 15.10 | 16.10 | 08.10 | 09.10 | **Completed** | Comparison of WT sequence with mutants sequence.  |
