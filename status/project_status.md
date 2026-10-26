@@ -66,7 +66,7 @@ Status values: Completed · In progress · Incident · Pending · Canceled.
 | M1 | Gantt v1 delivered (Atenea, 22:00) | Luz | 09.10 | 09.10 | 09.10 | 09.10 | **Completed** | Delivering the gantt. |
 | M2 | Variants and species selected | Noa & Ferran | 14.10 | 14.10 | 15.10 | 15.10 | **Completed** | Ortholog's selection. |
 | M3 | Analyses completed | All | 20.10 | 20.10 | 21.10 | 23.10 | **Completed** | Analysis about all of our research. |
-| M4 | Content freeze | All | 21.10 | 21.10 | 24.10 | 26.10 | In progress |  |
+| M4 | Content freeze | All | 21.10 | 21.10 | 24.10 | 26.10 | **Completed** |  |
 | M5 | Status retrospective | Ferran | 22.10 | 22.10 | 09.10 | 26.10 | **Completed** | Analysing and updating the Status |
 | M6 | Final delivery (GitHub, 22:00) | — | 26.10 | 26.10 |  |  | Pending |  |
 | M7 | Oral presentation | All | 05.11 | 05.11 | 05.10 | 05.10 | Pending |  |
