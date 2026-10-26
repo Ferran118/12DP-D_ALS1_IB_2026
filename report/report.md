@@ -276,6 +276,8 @@ Instead of inferential hypothesis testing, our analysis relies on a quantitative
 
 ### Authors' contributions
 
+Ferran, Noa, and Luz were the primary contributors to the research, development, and integration of this project. The three of them attended all in-person and online meetings, maintaining consistent communication throughout the project. Noa led the evolutionary conservation analysis, sequence alignments, and final report integration. Ferran led the structure-function impact analysis, 3D structural mapping, and the grammar and style review. Luz completed her technical work, taking responsibility for the clinical correlation, molecular pathogenesis, and bibliography formatting. Leyre's contribution was limited to the initial repository setup to Formal Requirements and the preliminary risk assessment, as she attended only one in-person meeting before leaving the project due to personal issues."
+
 ## References
 
 
