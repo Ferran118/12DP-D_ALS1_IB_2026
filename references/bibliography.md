@@ -1,7 +1,5 @@
 # Bibliography and data sources (working list)
 
-Working list of sources consulted. Every source used in the report must also be stored in this folder (PDF preferred) and cited in Mini Oxford SCIMED style.
-
 ## Databases
 - OMIM — Amyotrophic Lateral Sclerosis 1; ALS1 (#105400): https://omim.org/entry/105400
 - UniProt — Disease: Amyotrophic lateral sclerosis 1 (DI-00108): https://www.uniprot.org/diseases/DI-00108
@@ -13,15 +11,17 @@ Working list of sources consulted. Every source used in the report must also be 
 - NCBI Nucleotide — Pongo abelii superoxide dismutase 1 (SOD1), mRNA (NM_001131969.1): https://www.ncbi.nlm.nih.gov/nucleotide/NM_001131969.1?report=genbank&log$=nuclalign&blast_rank=35&RID=CEYYPTM2016&from=81&to=548
 - NCBI BLAST — Pongo abelii SOD1 Sequence Alignment Result (RID: CEYYPTM2016): https://blast.ncbi.nlm.nih.gov/Blast.cgi#197102619
 
+## Articles
+- Gagliardi D, Ripellino P, Meneri M, et al. Clinical and molecular features of patients with amyotrophic lateral sclerosis and SOD1 mutations: a monocentric study. Front Neurol. 2023; 14: 1169689. https://doi.org/10.3389/fneur.2023.1169689
+- Suthar SK, Lee SY. The role of superoxide dismutase 1 in amyotrophic lateral sclerosis: identification of signaling pathways, regulators, molecular interaction networks, and biological functions through bioinformatics. Brain Sci. 2023; 13(1): 151. https://doi.org/10.3390/brainsci13010151
+- Redler RL, Dokholyan NV. The complex molecular biology of amyotrophic lateral sclerosis (ALS). Prog Mol Biol Transl Sci. 2012; 107: 215-262. https://doi.org/10.1016/b978-0-12-385883-2.00002-3
 
 ## Paper’s references
-Gagliardi D, Ripellino P, Meneri M, et al. Clinical and molecular features of patients with amyotrophic lateral sclerosis and SOD1 mutations: a monocentric study. Front Neurol. 2023; 14: 1169689.   https://pubmed.ncbi.nlm.nih.gov/37265463/
-
-Suthar SK, Lee SY. The role of superoxide dismutase 1 in amyotrophic lateral sclerosis: identification of signaling pathways, regulators, molecular interaction networks, and biological functions through bioinformatics. Brain Sci. 2023; 13(1): 151.   https://pubmed.ncbi.nlm.nih.gov/36672132/
-
-Redler RL, Dokholyan NV. The complex molecular biology of amyotrophic lateral sclerosis (ALS). Prog Mol Biol Transl Sci. 2012; 107: 215-262.  https://pmc.ncbi.nlm.nih.gov/articles/PMC3605887/
+1. Gagliardi D, Ripellino P, Meneri M, et al. Clinical and molecular features of patients with amyotrophic lateral sclerosis and SOD1 mutations: a monocentric study. Front Neurol. 2023; 14: 1169689. Available from: https://doi.org/10.3389/fneur.2023.1169689
+2. Suthar SK, Lee SY. The role of superoxide dismutase 1 in amyotrophic lateral sclerosis: identification of signaling pathways, regulators, molecular interaction networks, and biological functions through bioinformatics. Brain Sci. 2023; 13(1): 151. Available from: https://doi.org/10.3390/brainsci13010151
+3. Redler RL, Dokholyan NV. The complex molecular biology of amyotrophic lateral sclerosis (ALS). Prog Mol Biol Transl Sci. 2012; 107: 215-262. Available from: https://doi.org/10.1016/b978-0-12-385883-2.00002-3
 
 ## Database references
-Online Mendelian Inheritance in Man (OMIM). Amyotrophic lateral sclerosis 1; ALS1 (Entry 147450). OMIM. 2023. Available from: https://omim.org/entry/147450
-The UniProt Consortium. Superoxide dismutase [Cu-Zn] (Entry P00441). UniProtKB. 2023. Available from: https://www.uniprot.org/uniprotkb/P00441/entry
-Protein Data Bank (PDB). Crystal structure of wild-type human Cu, Zn superoxide dismutase (PDB 1HL5). RCSB PDB. 2003. Available from: https://www.rcsb.org/structure/1HL5
+4. Online Mendelian Inheritance in Man (OMIM). Amyotrophic lateral sclerosis 1; ALS1 (Entry 105400). OMIM. 2023. Available from: https://omim.org/entry/105400
+5. The UniProt Consortium. Superoxide dismutase [Cu-Zn] (Entry P00441). UniProtKB. 2023. Available from: https://www.uniprot.org/uniprotkb/P00441/entry
+6. Protein Data Bank (PDB). Crystal structure of wild-type human Cu, Zn superoxide dismutase (PDB 2C9V). RCSB PDB. 2003. Available from: https://www.rcsb.org/structure/2C9V
