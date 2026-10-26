@@ -123,6 +123,7 @@ Alignment between the WT and mutant CDS identified a single-nucleotide substitut
 **Nucleotide substitution (CDS):**
 
 ![Figure 1](figures/Figure_1_nucleotide_substitution.png)
+*Figure 1: Pairwise nucleotide alignment of human SOD1 CDS showing the c.14C>T substitution in exon 1.* 
 
 **p.Ala5Val substitution:**
 
