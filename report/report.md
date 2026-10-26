@@ -312,3 +312,31 @@ Ferran, Noa, and Luz were the primary contributors to the research, development,
 11. Schoser BG, Blottner D. Motor unit degeneration in amyotrophic lateral sclerosis and related motor neuron diseases. Muscle & Nerve. 2006; 34(1): 1–15.
 
 12. Burke RE. Motor units: anatomy, physiology, and functional organization. Comprehensive Physiology. 1981; 345–390.
+
+*LINKS*
+
+Links
+
+https://omim.org/entry/105400
+
+https://doi.org/10.3389/fneur.2023.1169689
+
+https://doi.org/10.1038/362059a0
+
+https://www.uniprot.org/uniprotkb/P00441/entry
+
+https://doi.org/10.3390/brainsci13010151
+
+https://www.rcsb.org/structure/2c9v
+
+https://doi.org/10.1016/b978-0-12-385883-2.00002-3
+
+https://doi.org/10.1172/JCI168554
+
+https://doi.org/10.1146/annurev.neuro.31.061307.090711
+
+https://doi.org/10.1602/neurorx.2.4.572
+
+https://doi.org/10.1002/mus.20525
+
+https://doi.org/10.1002/cphy.cp010210
