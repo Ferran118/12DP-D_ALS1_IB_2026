@@ -122,7 +122,7 @@ Alignment between the WT and mutant CDS identified a single-nucleotide substitut
 
 **Nucleotide substitution (CDS):**
 
-![Figure 1: nucleotide_substitution](report/figures/Figure_1:nucleotide_substitution.jpg)
+![Figure 1](figures/Figure_1_nucleotide_substitution.png)
 
 **p.Ala5Val substitution:**
 
