@@ -120,19 +120,21 @@ The wild-type (WT) coding sequence (CDS) matches the human superoxide dismutase 
 
 Alignment between the WT and mutant CDS identified a single-nucleotide substitution, c.14C>T. This nucleotide change alters the fifth codon from GCC to GTC. According to the standard genetic code, the wild-type codon GCC translates to Alanine (Ala), whereas the mutated codon GTC translates to Valine (Val). Consequently, this single base change drives a missense mutation at the protein level, resulting in the p.Ala5Val substitution.[2]
 
-**Nucleotide substitution (CDS):**
+**Figure 1: Pairwise nucleotide alignment of human SOD1 CDS showing the c.14C>T substitution in exon 1.**  
 
 ![Figure 1](figures/Figure_1_nucleotide_substitution.png)
 *Figure 1: Pairwise nucleotide alignment of human SOD1 CDS showing the c.14C>T substitution in exon 1.* 
 
-**p.Ala5Val substitution:**
+*Source: NCBI BLAST (RID: D1RXYHDP016)*
+
+**Table 1: Translated amino acid alignment of residues 1–60 showing the p.Ala5Val substitution.**
 
 |  | sequence |
 |---|---| 
 | Query 1 | 1 - MAT**KAV**CVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTS - 60 |
 | Subj 1 | 1 - MAT**KVV**CVLKGDGPVQGIINFEQKESNGPVKVWGSIKGLTEGLHGFHVHEFGDNTAGCTS - 60 |
 
-(Query 1 is the WT sequence)
+*Note: Bold text indicates the mutation. Derived from the alignment data shown in Figure 1.*
 
 ### Evolutionary findings
 Multiple sequence alignment of the SOD1 coding sequences across Homo sapiens, Pongo abelii, and Bos taurus reveals a highly conserved region between positions 178 and 237. Nonetheless, nucleotide variation is present: the human CDS alignment displays a 3-nucleotide gap at positions 35–37 compared to Pongo abelii, while Bos taurus exhibits additional single-nucleotide substitutions across this segment. At the protein level, SOD1 exhibits higher conservation than at the CDS level. The C-terminal domain (amino acids 121–154) is nearly identical across all three species, showing only three amino acid differences between Pongo abelii and Bos taurus. Similarly, the central domain (amino acids 61–100) is strongly conserved. Conversely, the N-terminal region (amino acids 1–60) harbors the greatest variability, containing several substitutions—such as a Valine at position 5 in Pongo abelii and Bos taurus relative to human Alanine—as well as a 2-amino-acid gap at positions 24–25 unique to Bos taurus.[4]
