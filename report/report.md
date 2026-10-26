@@ -159,7 +159,7 @@ The human SOD1 gene is located at genomic locus **21q22.11** on the long arm of 
 |---|---|
 | The wild-type protein functions as a homodimer. | The increase in side-chain volume may affect local structural packing and the dimer interface. Increased hydrophobicity may also promote abnormal protein–protein interactions, misfolding, and aggregation. |
 
-**Table 1: Physicochemical and structural differences between wild-type and p.Ala5Val SOD1.**
+**Table 2: Physicochemical and structural differences between wild-type and p.Ala5Val SOD1.**
 
 ![Figure 2:](figures/PyMOL\_protein\_mutant\_SOD1.png)
 
