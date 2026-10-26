@@ -53,9 +53,9 @@ Status values: Completed · In progress · Incident · Pending · Canceled.
 | **3.4** | **Integration and final review** | All | 21.10 | 23.10 | | | | |
 | 3.4.1 | Word-count and figure-limit check | Ferran | 21.10 | 21.10 |  |  | Pending | Contingency of the format risk (check on 21/10) |
 | 3.4.2 | Integration of sections, Abstract and Keywords, Abreviations | Noa | 22.10 | 22.10 | 25.10 | 25.10 | **Completed** | Synthesis only: no new analyses after the 21/10 content freeze |
-| 3.4.3 | Reference and citation check | Luz | 23.10 | 23.10 |  |  | Pending |  |
+| 3.4.3 | Reference and citation check | Luz | 23.10 | 23.10 | 25.10 | 26.10 | **Completed** | Added citations in minioxford to report + references |
 | 3.4.4 | Grammar and style check | Ferran | 23.10 | 23.10 |  |  | Pending |  |
-| 3.4.5 | Rubric and delivery checklist, Authors' contributions | Luz | 23.10 | 23.10 |  |  | Pending | 26/10 kept as buffer only (no new tasks) |
+| 3.4.5 | Rubric and delivery checklist, Authors' contributions | Luz | 23.10 | 23.10 | 25.10 |  | In progress | 26/10 kept as buffer only (no new tasks) |
 | **4** | **Oral presentation** | All | 27.10 | 04.11 | | | | |
 | **4.1** | **Presentation preparation** | | 27.10 | 04.11 | | | | |
 | 4.1.1 | Slide structure and template | Noa | 27.10 | 28.10 |  |  | Pending | After final delivery; nothing committed after 26/10 22:00 |
