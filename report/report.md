@@ -158,7 +158,7 @@ The human SOD1 gene is located at genomic locus **21q22.11** on the long arm of 
 |---|---|
 | The wild-type protein functions as a homodimer. | The increase in side-chain volume may affect local structural packing and the dimer interface. Increased hydrophobicity may also promote abnormal protein–protein interactions, misfolding, and aggregation. |
 
-Figure 2: <img width="630" height="460" alt="image" src="https://github.com/user-attachments/assets/52dc94b9-c5df-435d-a960-cbbbaa5dd2d4" />
+![Figure 2: 3D structural mapping of the human SOD1 homodimer (PDB ID: 2C9V) highlighting the p.Ala4Val substitution at the non-covalent subunit contact interface.](figures/PyMOL\_protein\_mutant\_SOD1.png)
 
 
 At the secondary structure level, the added side-chain bulk alters local backbone dynamics by decreasing the propensity for alpha helix formation and favoring a rigid folding such as beta sheets. Quantitative 3D structural superposition reveals a local backbone displacement of 0.379 Å at variant position 5 and an overall global Carbon alpha RMSD of 0.667 Å between wild-type and mutant structures. Although this physical alteration is minimal, its functional impact is dictated by the physicochemical properties mentioned previously, which ultimately destabilize and unfold the protein.
