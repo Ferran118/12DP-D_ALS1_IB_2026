@@ -47,6 +47,9 @@ Our results illustrate how localized interface stress triggers cytotoxic monomer
 - Protein aggregation
 
 ## Background
+>**Nomenclature note:**
+Throughout this report, the target missense mutation is designated as p.Ala5Val (or c.14C>T) according to standard HGVS guidelines based on the full-length human precursor polypeptide (RefSeq NP_000445.1, 155 amino acids), which includes the initial Methionine at position 1. However, in historic clinical literature and structural databases (such as PDB ID: 2C9V), this variant is frequently referenced as p.Ala4Val (A4V) to reflect the mature, active 154-amino-acid SOD1 protein following N-terminal Methionine cleavage. Both designations refer to the exact same molecular mutation at codon 14 in exon 1.
+
 ### **Analysis of ALS1 across four specific biological levels**
 
 Amyotrophic lateral sclerosis is a neurodegenerative disorder characterized by the death of motor neurons in the brain, brainstem, and spinal cord, resulting in fatal paralysis. ALS usually begins with asymmetric involvement of the muscles in middle adult life. Approximately 10% of ALS cases are familial. It is genetically heterogeneous, meaning that the disease phenotype is not linked to a single genetic locus, but can be triggered by pathogenic mutations across multiple distinct genes (e.g., SOD1, C9orf72, FUS, and TARDBP). Consequently, the precise genetic cause can vary significantly between patients.
@@ -119,7 +122,7 @@ Alignment between the WT and mutant CDS identified a single-nucleotide substitut
 
 **Nucleotide substitution (CDS):**
 
-![Figure 1: nucleotide_substitution](report/figures/Figure_1:nucleotide_substitution.png)
+![Figure 1: nucleotide_substitution](report/figures/Figure_1:nucleotide_substitution.jpg)
 
 **p.Ala5Val substitution:**
 
@@ -281,12 +284,12 @@ Instead of inferential hypothesis testing, our analysis relies on a quantitative
 
 ### Authors' contributions
 
-Ferran, Noa, and Luz were the primary contributors to the research, development, and integration of this project. The three of them attended all in-person and online meetings, maintaining consistent communication throughout the project. Noa led the evolutionary conservation analysis, sequence alignments, and final report integration. Ferran led the structure-function impact analysis, 3D structural mapping, and the grammar and style review. Luz completed her technical work, taking responsibility for the clinical correlation, molecular pathogenesis, and bibliography formatting. Leyre's contribution was limited to the initial repository setup to Formal Requirements and the preliminary risk assessment, as she attended only one in-person meeting before leaving the project due to personal issues."
+Ferran, Noa, and Luz were the primary contributors to the research, development, and integration of this project. The three of them attended all in-person and online meetings, maintaining consistent communication throughout the project. Noa led the evolutionary conservation analysis, sequence alignments, and final report integration. Ferran led the structure-function impact analysis, 3D structural mapping, and the grammar and style review. Luz completed her technical work, taking responsibility for the clinical correlation, molecular pathogenesis, and bibliography formatting. Leyre's contribution was limited to the initial repository setup to Formal Requirements and the preliminary risk assessment, as she attended only one in-person meeting before leaving the project due to personal issues.
 
 ## References
 
 
-[1]<sup>1</sup> Online Mendelian Inheritance in Man (OMIM) (2023) 'Amyotrophic lateral sclerosis 1; ALS1 (Entry 147450)', *OMIM*.
+[1]<sup>1</sup> Online Mendelian Inheritance in Man (OMIM) (2023) 'Amyotrophic lateral sclerosis 1; ALS1 (Entry 105400)', *OMIM*.
 
 [2]<sup>2</sup> Gagliardi, D. et al. (2023) 'Clinical and molecular features of patients with amyotrophic lateral sclerosis and SOD1 mutations: a monocentric study', *Front Neurol*, 14, 1169689.
 
@@ -296,7 +299,7 @@ Ferran, Noa, and Luz were the primary contributors to the research, development,
 
 [5]<sup>5</sup> Suthar, S.K. & Lee, S.Y. (2023) 'The role of superoxide dismutase 1 in amyotrophic lateral sclerosis: identification of signaling pathways, regulators, molecular interaction networks, and biological functions through bioinformatics', *Brain Sci*, 13(1), 151.
 
-[6]<sup>6</sup> Protein Data Bank (PDB) (2003) 'Crystal structure of wild-type human Cu, Zn superoxide dismutase (PDB 1HL5)', *RCSB PDB*.
+[6]<sup>6</sup> Protein Data Bank (PDB) (2003) 'Crystal structure of wild-type human Cu, Zn superoxide dismutase (PDB 2C9V)', *RCSB PDB*.
 
 [7]<sup>7</sup> Redler, R.L. & Dokholyan, N.V. (2012) 'The complex molecular biology of amyotrophic lateral sclerosis (ALS)', *Prog Mol Biol Transl Sci*, 107, pp. 215-262.
 
