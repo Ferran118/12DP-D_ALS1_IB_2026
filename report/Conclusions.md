@@ -1,0 +1,3 @@
+**Conclusions**
+
+Ultimately, this project shows how a single tiny mistake in the SuperoxideDismutase 1 gene can cause the entire motor system to fail. It proves that motor neurons are specially sensitive when damaged proteins clump together. By following the disease from a microscopic protein mistake to a patient's physical weakness, we can clearly see how biology controls the illness. The fact that some patients decline rapidly while others survive for over a decade, only because of a different genetic mutation, shows how complex ALS truly is. Understanding exactly how and where the cells break down is not just research, since finding these exact points of failure is the first and most important step towards creating a targeted treatment for patients.

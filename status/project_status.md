@@ -1,1 +1,72 @@
-| ID | Task Title | Task Owner | Planned Start Date | Planned End Date | Duration | PCT of Task Complete |
+# Project Status — 12DP-D · ALS1 Disease Project
+
+Live task tracking. Same tasks and IDs as the Gantt chart in `gantt/`.
+
+**Updated up to: 26.10.2026**
+
+Status values: Completed · In progress · Incident · Pending · Canceled.
+
+| ID | Task | Resp. | Plan. start | Plan. finish | Real start | Real finish | Status | Notes |
+|---|---|---|---|---|---|---|---|---|
+| **1** | **Project management & setup** | All | 17.09 | 26.10 | 17.09 | 25.10 | **Completed** | |
+| **1.1** | **GitHub environment setup** |  All | 17.09 | 09.10 | 17.09 | 09.10 | **Completed** | |
+| 1.1.1 | Setting up repository | Noa & Ferran | 17.09 | 17.09 | 17.09 | 17.09 | **Completed** | Repository created and folders added on 17/09 |
+| 1.1.2 | Repository update to Formal Requirements (name, report/, references/, README) | Leyre | 09.10 | 09.10 | 08.10 | 09.10 | **Completed** | Remove unrelated entries (TTR, serum albumin) from the bibliography file |
+| **1.2** | **Project planning** | All | 01.10 | 09.10 | 29.09 | 09.10 | **Completed** | |
+| 1.2.1 | Gantt chart (Excel) | All | 01.10 | 08.10 | 29.09 | 09.10 | **Completed** | First Excel version committed on 29/09 |
+| 1.2.2 | Risk assessment | Leyre | 05.10 | 08.10 | 06.10 | 08.10 | **Completed** | Potential risks. |
+| 1.2.3 | Gantt v1 export to PDF, Atenea submission and freeze in repo | Luz | 09.10 | 09.10 | 09.10 | 09.10 | **Completed** | Atenea deadline 22:00; upload at least 2 h earlier |
+| **1.3** | **Literature review** | All | 06.10 | 22.10 | 06.10 | 25.10 | **Completed** | |
+| 1.3.1 | Bibliography selection | All | 06.10 | 09.10 | 06.10 | 25.10 | **Completed** | Every member searches sources |
+| 1.3.2 | Extraction of information and storage of sources | All | 13.10 | 21.10 | 09.10 | 24.10 | **Completed** | Collect important information for the project. |
+| 1.3.3 | In-text citations and reference list (Oxford SCIMED) | All | 15.10 | 22.10 | 15.10 | 26.10 | **Completed** | Done while writing each section |
+| **1.4** | **Project monitoring** | All | 09.10 | 26.10 | 09.10 | 25.10 | **Completed** | |
+| 1.4.1 | Project Status and live Gantt updates (Mon & Thu) | Ferran | 09.10 | 26.10 | 09.10 | 26.10 | **Completed** | Final Gantt must reflect real progress on 26/10 |
+| 1.4.2 | Risk monitoring | All | 09.10 | 26.10 | 09.10 | 22.10 | **Completed** | Risks management |
+| 1.4.3 | Retrospective preparation | Ferran | 21.10 | 21.10 | 21.10 | 25.10 | **Completed** | Gantt and status Updates |
+| **2** | **Bioinformatic analysis** | | 13.10 | 20.10 | 08.10 | 23.10 | **Completed** | |
+| **2.1** | **Sequence, mutation and structure analysis** | All | 13.10 | 16.10 | 08.10 | 15.10 | **Completed** | |
+| 2.1.1 | Disease cause at gene, protein, structure and function level | Luz | 13.10 | 14.10 | 16.10 | 20.10 | **Completed** | Research about de cause of the disease at different levels.  |
+| 2.1.2 | Variant selection and numbering mapping table | All | 13.10 | 14.10 | 14.10 | 15.10 | **Completed** | The difference between p.Ala4Val and p.Ala5Val. |
+| 2.1.3 | Wild-type vs mutant sequence alignment | Ferran & Noa | 15.10 | 16.10 | 08.10 | 09.10 | **Completed** | Comparison of WT sequence with mutants sequence.  |
+| 2.1.4 | Mapping of variants onto the 3D structure | Ferran | 15.10 | 16.10 | 15.10 | 15.10 | **Completed** | Add the variants in the SOD1 WT protein on 3D structure. |
+| **2.2** | **Evolutionary conservation** | Noa | 13.10 | 19.10 | 08.10 | 22.10 | **Completed** | |
+| 2.2.1 | Species selection (≥ 2) and ortholog retrieval | Noa | 13.10 | 14.10 | 08.10 | 13.10 | **Completed** | Choose and compare ortholog's proteins with human's (SOD1). |
+| 2.2.2 | Multiple sequence alignment and conservation of mutated residues | Noa | 15.10 | 16.10 | 16.10 | 19.10 | **Completed** | Alignment to figure out the conservation and the change between other species. |
+| 2.2.3 | Selective pressure in evolution | Noa | 19.10 | 19.10 | 20.10 | 22.10 | **Completed** | Detect and explain if there are highly conserved regions across the three species in the CDS and protein sequences, and why. |
+| **2.3** | **Structure–function impact** | Ferran & Luz | 19.10 | 20.10 | 19.10 | 23.10 | **Completed** | |
+| 2.3.1 | Healthy vs disease differences at gene, protein, structure and function level | Ferran | 19.10 | 19.10 | 20.10 | 21.10 | **Completed** | Comparing healthy vs variant at all levels explaining each differences. |
+| 2.3.2 | Impact on patient function | Luz | 20.10 | 20.10 | 21.10 | 23.10 | **Completed** | Analysis and findings about the impact of the mutation on patients. |
+| **3** | **Report writing (BMC Bioinformatics format)** | All | 13.10 | 23.10 | 13.10 | 25.10 | **Completed** | |
+| **3.1** | **Background and Methods** | All | 13.10 | 21.10 | 13.10 | 25.10 | **Completed** | |
+| 3.1.1 | Report skeleton (BMC sections) and figure plan | Ferran | 13.10 | 13.10 | 08.10 | 13.10  | **Completed** | BMC structure and section budget completed. |
+| 3.1.2 | Background | All | 15.10 | 16.10 | 21.10 | 25.10 | **Completed** | Introduct the results of the project |
+| 3.1.3 | Methods | Noa | 21.10 | 21.10 | 24.10 | 25.10 | **Completed** | Explain how we have extracted the information of the sources. |
+| **3.2** | **Results** | Noa & Ferran | 19.10 | 20.10 | 19.10 | 25.10 | **Completed** | Finish our report results |
+| 3.2.1 | Mutant sequence findings | Noa | 19.10 | 20.10 | 21.10 | 21.10 | **Completed** | Report on the final report our mutant sequence findings |
+| 3.2.2 | Evolutionary findings | Noa | 20.10 | 20.10 | 21.10 | 22.10 | **Completed** | Report on the final report our comparison on evolution findings. |
+| 3.2.3 | Structure and functional impact findings | Ferran | 20.10 | 20.10 | 24.10 | 25.10 | **Completed** | Report our findings in the final report. |
+| **3.3** | **Discussion and Conclusions** | Noa & Luz | 21.10 | 22.10 | 22.10 | 25.10 | **Completed** | |
+| 3.3.1 | Results interpretation | Noa | 21.10 | 21.10 | 22.10 | 25.10  | **Completed** | Analysis of the resukt and its interpretation |
+| 3.3.2 | Correlation with the disease | Luz | 21.10 | 21.10 | 24.10 | 24.10 | **Completed** | Done in task 2.1 |
+| 3.3.3 | Conclusions | Luz | 22.10 | 22.10 | 24.10 | 25.10 | **Completed** | Synthesis overall conclusion |
+| **3.4** | **Integration and final review** | All | 21.10 | 23.10 | 25.10 | 26.10 | **Completed** | |
+| 3.4.1 | Word-count and figure-limit check | Ferran | 21.10 | 21.10 | 25.10 | 26.10 | **Completed** | Last revision about limited words and figures. |
+| 3.4.2 | Integration of sections, Abstract and Keywords, Abreviations | Noa | 22.10 | 22.10 | 25.10 | 25.10 | **Completed** | Completing all sections of the final report. |
+| 3.4.3 | Reference and citation check | Luz | 23.10 | 23.10 | 25.10 | 26.10 | **Completed** | Final revision of citation an bibliography. |
+| 3.4.4 | Grammar and style check | Ferran | 23.10 | 23.10 | 25.10 | 26.10 | **Completed** | Checking last things in the final report. |
+| 3.4.5 | Rubric and delivery checklist, Authors' contributions | Luz | 23.10 | 23.10 | 25.10 | 26.10 | **Completed** | Following rubric instructions and mentioning contributions. |
+| **4** | **Oral presentation** | All | 27.10 | 04.11 | | | | |
+| **4.1** | **Presentation preparation** | All | 27.10 | 04.11 | | | | |
+| 4.1.1 | Slide structure and template | Noa | 27.10 | 28.10 |  |  | Pending | After final delivery; nothing committed after 26/10 22:00 |
+| 4.1.2 | Slides for each section | All | 29.10 | 30.10 |  |  | Pending | All memebers prepare the slides equally |
+| 4.1.3 | Cross-explanation session | All | 02.11 | 02.11 |  |  | Pending | Team alignment session where each member presents their section to the rest of the group. |
+| 4.1.4 | Rehearsal with questions | All | 03.11 | 04.11 |  |  | Pending | Complete oral defense to practice. |
+| **M** | **Milestones** | |  |  | | | | |
+| M1 | Gantt v1 delivered (Atenea, 22:00) | Luz | 09.10 | 09.10 | 09.10 | 09.10 | **Completed** | Delivering the gantt. |
+| M2 | Variants and species selected | Noa & Ferran | 14.10 | 14.10 | 15.10 | 15.10 | **Completed** | Ortholog's selection. |
+| M3 | Analyses completed | All | 20.10 | 20.10 | 21.10 | 23.10 | **Completed** | Analysis about all of our research. |
+| M4 | Content freeze | All | 21.10 | 21.10 | 24.10 | 26.10 | **Completed** |  |
+| M5 | Status retrospective | Ferran | 22.10 | 22.10 | 09.10 | 26.10 | **Completed** | Analysing and updating the Status |
+| M6 | Final delivery (GitHub, 22:00) | Luz | 26.10 | 26.10 | 26.10 | 26.10 | **Completed** | Final delivery |
+| M7 | Oral presentation | All | 05.11 | 05.11 | 05.10 | 05.10 | Pending |  |
