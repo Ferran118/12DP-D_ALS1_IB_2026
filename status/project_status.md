@@ -2,7 +2,7 @@
 
 Live task tracking. Same tasks and IDs as the Gantt chart in `gantt/`.
 
-**Updated up to: 09.10.2026**
+**Updated up to: 26.10.2026**
 
 Status values: Completed · In progress · Incident · Pending · Canceled.
 
@@ -14,11 +14,11 @@ Status values: Completed · In progress · Incident · Pending · Canceled.
 | 1.1.2 | Repository update to Formal Requirements (name, report/, references/, README) | Leyre | 09.10 | 09.10 | 08.10 | 09.10 | **Completed** | Remove unrelated entries (TTR, serum albumin) from the bibliography file |
 | **1.2** | **Project planning** | | 01.10 | 09.10 | 29.09 | 09.10 | **Completed** | |
 | 1.2.1 | Gantt chart (Excel) | All | 01.10 | 08.10 | 29.09 | 09.10 | **Completed** | First Excel version committed on 29/09 |
-| 1.2.2 | Risk assessment | Leyre | 05.10 | 08.10 | 06.10 | 08.10 | **Completed** |  |
+| 1.2.2 | Risk assessment | Leyre | 05.10 | 08.10 | 06.10 | 08.10 | **Completed** | Potential risks. |
 | 1.2.3 | Gantt v1 export to PDF, Atenea submission and freeze in repo | Luz | 09.10 | 09.10 | 09.10 | 09.10 | **Completed** | Atenea deadline 22:00; upload at least 2 h earlier |
 | **1.3** | **Literature review** | | 06.10 | 22.10 | 06.10 | 25.10 | **Completed** | |
 | 1.3.1 | Bibliography selection | All | 06.10 | 09.10 | 06.10 | 25.10 | **Completed** | Every member searches sources |
-| 1.3.2 | Extraction of information and storage of sources | All | 13.10 | 21.10 | 09.10 | 24.10 | **Completed** |  |
+| 1.3.2 | Extraction of information and storage of sources | All | 13.10 | 21.10 | 09.10 | 24.10 | **Completed** | Collect important information for the project. |
 | 1.3.3 | In-text citations and reference list (Oxford SCIMED) | All | 15.10 | 22.10 | 15.10 | 25.10 | **Completed** | Done while writing each section |
 | **1.4** | **Project monitoring** | | 09.10 | 26.10 | 09.10 | 25.10 | **Completed** | |
 | 1.4.1 | Project Status and live Gantt updates (Mon & Thu) | Ferran | 09.10 | 26.10 | 09.10 | 25.10 | **Completed** | Final Gantt must reflect real progress on 26/10 |
