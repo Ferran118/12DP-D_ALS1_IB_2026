@@ -143,7 +143,8 @@ As a result of this increased local hydrophobicity, volume, and structural strai
 **Structure:**
 
 The human SOD1 gene is located at genomic locus **21q22.11** on the long arm of chromosome 21 and is composed of 5 exons.<sup>1</sup> In this study model, the primary molecular cause of disease is a single-nucleotide missense mutation, **c.14C>T**, located in exon 1.<sup>1</sup> <sup>2</sup> At the coding sequence level, this nucleotide substitution alters the fifth codon from "GCC" to "GTC", resulting in the substitution of an Alanine  with a Valine at position 5 of the 154-amino-acid polypeptide chain, **p.Ala5Val**.<sup>1</sup> <sup>2</sup>
-**Table 1: Physicochemical and structural differences between wild-type and p.Ala5Val SOD1.**
+
+ **Table 1: Physicochemical and structural differences between wild-type and p.Ala5Val SOD1.**
 
 | WT (gene) | Mutated (gene) |
 |---|---|
