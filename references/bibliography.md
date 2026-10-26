@@ -13,9 +13,6 @@ Working list of sources consulted. Every source used in the report must also be 
 - NCBI Nucleotide — Pongo abelii superoxide dismutase 1 (SOD1), mRNA (NM_001131969.1): https://www.ncbi.nlm.nih.gov/nucleotide/NM_001131969.1?report=genbank&log$=nuclalign&blast_rank=35&RID=CEYYPTM2016&from=81&to=548
 - NCBI BLAST — Pongo abelii SOD1 Sequence Alignment Result (RID: CEYYPTM2016): https://blast.ncbi.nlm.nih.gov/Blast.cgi#197102619
 
-## Articles
-- [Add articles here]
-
 
 ## Paper’s references
 Gagliardi D, Ripellino P, Meneri M, et al. Clinical and molecular features of patients with amyotrophic lateral sclerosis and SOD1 mutations: a monocentric study. Front Neurol. 2023; 14: 1169689.   https://pubmed.ncbi.nlm.nih.gov/37265463/
