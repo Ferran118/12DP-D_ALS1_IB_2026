@@ -21,7 +21,7 @@
 ### WORK PACKAGE 2: Bioinformatic analysis
 
 ### WORK PACKAGE 3: Report Writing
-- [ ] **CHECK** That pictures and links work well at report.
+- [ ] **CHECK** That pictures and links work well at report. *done*
 
 ### WORK PACKAGE 4: Administrative & Submission + Oral Preparation 
 - [ ] **Authors' Contributions:** Documented individual team member contributions clearly in the report or repository README. *check*
