@@ -1,8 +1,6 @@
 # Rubric and Delivery Checklist
 
-This checklist outlines the evaluation criteria and required deliverables for the Amyotrophic Lateral Sclerosis 1 (ALS1 / *SOD1*) project, structured in accordance with academic and bioinformatics standards.
-
-## 1. Project Evaluation Rubric (4-point criteria)
+## Project Evaluation Rubric (4-point criteria)
 
 | Criteria | Developing (1) | Competent (2) | Proficient (3) | Outstanding (4) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -13,24 +11,30 @@ This checklist outlines the evaluation criteria and required deliverables for th
 
 ---
 
-## 2. Delivery Checklist (Task Completion)
+## Delivery Checklist (Task Completion)
 
-### Phase 1: Background & Literature Gathering
-- [ ] **Task 1.3.1:** Search and collection of primary literature and official database entries (OMIM, UniProt, PDB).
-- [ ] **Task 1.3.2:** Storage of source materials and PDF references in the repository folder structure.
-- [ ] **Task 1.3.3:** Implementation of in-text numeric citations in Oxford SCIMED format.
+### WORK PACKAGE 1: Project Management and Setup
+- [ ] **Task:** Search and collection of primary literature and official database entries (OMIM, UniProt, PDB).
+- [ ] **Task:** Storage of source materials and PDF references in the repository folder structure.
+- [ ] **Task:** Implementation of in-text numeric citations in Oxford SCIMED format.
 
-### Phase 2: Molecular Cause & Disease Mechanism
-- [ ] **Task 2.1.1 (Gene Level):** Documented *SOD1* locus ($21\text{q}22.11$), genetic heterogeneity, missense mutation profile, and inheritance modes (AD/AR).
-- [ ] **Task 2.1.1 (Protein Level):** Described Cu/Zn-SOD composition (154 amino acids), homodimer quaternary state, and metal cofactors ($\text{Cu}^{2+}$, $\text{Zn}^{2+}$).
-- [ ] **Task 2.1.1 (Structural Level):** Detailed beta-barrel "Greek key" motif, structural instability, and dimer dissociation.
-- [ ] **Task 2.1.1 (Functional Level):** Explained physiological antioxidant role versus pathological toxic gain-of-function.
+### WORK PACKAGE 2: Bioinformatic analysis
 
-### Phase 3: Patient Impact & Clinical Phenotype
-- [ ] **Task 2.3.2 (Cellular Toxicity):** Outlined axonal transport disruption, mitochondrial dysfunction, and ER stress in motor neurons.
-- [ ] **Task 2.3.2 (Clinical Phenotype):** Described early motor deficits, bulbar involvement (dysarthria and dysphagia), and terminal respiratory failure.
-- [ ] **Task 2.3.2 (Genotype-Phenotype Correlation):** Compared the rapid progression of the A4V mutation with the slower course of homozygous D90A.
+### WORK PACKAGE 3: Report Writing
+- [ ] **CHECK** That pictures and links work well at report.
 
-### Phase 4: Administrative & Submission
-- [ ] **Authors' Contributions:** Documented individual team member contributions clearly in the report or repository README.
-- [ ] **GitHub Push:** Verified that all `.md` files and reference links are successfully uploaded and rendered correctly in the GitHub repository (`12DP-D_ALS1_IB_2026`).
+### WORK PACKAGE 4: Administrative & Submission + Oral Preparation 
+- [ ] **Authors' Contributions:** Documented individual team member contributions clearly in the report or repository README. *check*
+- [ ] **GitHub Push:** Verified that all `.md` files and reference links are successfully uploaded and rendered correctly in the GitHub repository (`12DP-D_ALS1_IB_2026`). *incident*
+
+
+* **OVERALL QUESTIONS BEFORE SUBMISSION!!** *SCOPE EXPECTATIONS!*
+ * How can changes in gene/protein sequence and structure explain the molecular basis of disease? *answered*
+ * What can gene/protein comparison tell us about the affected biological function? *answered*
+ * What is the cause of the disease from the gene/protein structure and function. perspectives? *answered*
+ * What are the differences at gene, protein, structure and function levels between a reference/healthy state and the disease-associated state? *answered*
+ * From a biological perspective, how are the differences between reference/healthy state and the disease state impacting the patient's function? *answered*
+ * What are the differences of the gene/protein structure and function between humans and at least two other relevant species? What biological implications does this have?*answered*
+   
+
+
